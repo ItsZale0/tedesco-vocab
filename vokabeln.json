@@ -1,1006 +1,1406 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-05T20:48:17Z",
+  "generatedAt": "2026-10-05T20:49:44Z",
   "words": [
     {
       "id": "w1",
-      "tedesco": "ich",
-      "italiano": "io",
-      "frase": "Ich bin Alessandro.",
-      "lezione": 1,
+      "german": "ich",
+      "italian": "io",
+      "example": "Ich bin Alessandro.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w2",
-      "tedesco": "du",
-      "italiano": "tu",
-      "frase": "Du bist mein Freund.",
-      "lezione": 1,
+      "german": "du",
+      "italian": "tu",
+      "example": "Du bist mein Freund.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w3",
-      "tedesco": "er",
-      "italiano": "lui",
-      "frase": "Er ist mein Bruder.",
-      "lezione": 1,
+      "german": "er",
+      "italian": "lui",
+      "example": "Er ist mein Bruder.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w4",
-      "tedesco": "sie",
-      "italiano": "lei",
-      "frase": "Sie ist Studentin.",
-      "lezione": 1,
+      "german": "sie",
+      "italian": "lei",
+      "example": "Sie ist Studentin.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w5",
-      "tedesco": "es",
-      "italiano": "esso",
-      "frase": "Es ist ein Tisch.",
-      "lezione": 1,
+      "german": "es",
+      "italian": "esso",
+      "example": "Es ist ein Tisch.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w6",
-      "tedesco": "wir",
-      "italiano": "noi",
-      "frase": "Wir sind Studenten.",
-      "lezione": 1,
+      "german": "wir",
+      "italian": "noi",
+      "example": "Wir sind Studenten.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w7",
-      "tedesco": "ihr",
-      "italiano": "voi",
-      "frase": "Ihr seid Studenten.",
-      "lezione": 1,
+      "german": "ihr",
+      "italian": "voi",
+      "example": "Ihr seid Studenten.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w8",
-      "tedesco": "sein",
-      "italiano": "essere",
-      "frase": "Ich bin müde.",
-      "lezione": 1,
+      "german": "sein",
+      "italian": "essere",
+      "example": "Ich bin müde.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w9",
-      "tedesco": "haben",
-      "italiano": "avere",
-      "frase": "Ich habe Zeit.",
-      "lezione": 1,
+      "german": "haben",
+      "italian": "avere",
+      "example": "Ich habe Zeit.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w10",
-      "tedesco": "heißen",
-      "italiano": "chiamarsi",
-      "frase": "Ich heiße Alessandro.",
-      "lezione": 1,
+      "german": "heißen",
+      "italian": "chiamarsi",
+      "example": "Ich heiße Alessandro.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w11",
-      "tedesco": "wohnen",
-      "italiano": "abitare",
-      "frase": "Ich wohne in Brixen.",
-      "lezione": 1,
+      "german": "wohnen",
+      "italian": "abitare",
+      "example": "Ich wohne in Brixen.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w12",
-      "tedesco": "kommen",
-      "italiano": "venire",
-      "frase": "Ich komme aus Italien.",
-      "lezione": 1,
+      "german": "kommen",
+      "italian": "venire",
+      "example": "Ich komme aus Italien.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w13",
-      "tedesco": "sprechen",
-      "italiano": "parlare",
-      "frase": "Ich spreche Italienisch.",
-      "lezione": 1,
+      "german": "sprechen",
+      "italian": "parlare",
+      "example": "Ich spreche Italienisch.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w14",
-      "tedesco": "lernen",
-      "italiano": "imparare",
-      "frase": "Ich lerne Deutsch.",
-      "lezione": 1,
+      "german": "lernen",
+      "italian": "imparare",
+      "example": "Ich lerne Deutsch.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w15",
-      "tedesco": "arbeiten",
-      "italiano": "lavorare",
-      "frase": "Ich arbeite viel.",
-      "lezione": 1,
+      "german": "arbeiten",
+      "italian": "lavorare",
+      "example": "Ich arbeite viel.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w16",
-      "tedesco": "studieren",
-      "italiano": "studiare",
-      "frase": "Ich studiere Physiotherapie.",
-      "lezione": 1,
+      "german": "studieren",
+      "italian": "studiare",
+      "example": "Ich studiere Physiotherapie.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w17",
-      "tedesco": "machen",
-      "italiano": "fare",
-      "frase": "Ich mache meine Arbeit.",
-      "lezione": 1,
+      "german": "machen",
+      "italian": "fare",
+      "example": "Ich mache meine Arbeit.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w18",
-      "tedesco": "finden",
-      "italiano": "trovare",
-      "frase": "Ich finde ein Buch.",
-      "lezione": 1,
+      "german": "finden",
+      "italian": "trovare",
+      "example": "Ich finde ein Buch.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w19",
-      "tedesco": "kaufen",
-      "italiano": "comprare",
-      "frase": "Ich kaufe ein Buch.",
-      "lezione": 1,
+      "german": "kaufen",
+      "italian": "comprare",
+      "example": "Ich kaufe ein Buch.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w20",
-      "tedesco": "essen",
-      "italiano": "mangiare",
-      "frase": "Ich esse ein Brot.",
-      "lezione": 1,
+      "german": "essen",
+      "italian": "mangiare",
+      "example": "Ich esse ein Brot.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w21",
-      "tedesco": "trinken",
-      "italiano": "bere",
-      "frase": "Ich trinke Wasser.",
-      "lezione": 1,
+      "german": "trinken",
+      "italian": "bere",
+      "example": "Ich trinke Wasser.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w22",
-      "tedesco": "schlafen",
-      "italiano": "dormire",
-      "frase": "Ich schlafe acht Stunden.",
-      "lezione": 1,
+      "german": "schlafen",
+      "italian": "dormire",
+      "example": "Ich schlafe acht Stunden.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w23",
-      "tedesco": "verstehen",
-      "italiano": "capire",
-      "frase": "Ich verstehe nicht.",
-      "lezione": 1,
+      "german": "verstehen",
+      "italian": "capire",
+      "example": "Ich verstehe nicht.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w24",
-      "tedesco": "helfen",
-      "italiano": "aiutare",
-      "frase": "Du hilfst mir.",
-      "lezione": 1,
+      "german": "helfen",
+      "italian": "aiutare",
+      "example": "Du hilfst mir.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w25",
-      "tedesco": "der Mensch",
-      "italiano": "la persona",
-      "frase": "Der Mensch ist freundlich.",
-      "lezione": 1,
+      "german": "der Mensch",
+      "italian": "la persona",
+      "example": "Der Mensch ist freundlich.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w26",
-      "tedesco": "der Name",
-      "italiano": "il nome",
-      "frase": "Mein Name ist Alessandro.",
-      "lezione": 1,
+      "german": "der Name",
+      "italian": "il nome",
+      "example": "Mein Name ist Alessandro.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w27",
-      "tedesco": "das Alter",
-      "italiano": "l'età",
-      "frase": "Ich bin zwanzig Jahre alt.",
-      "lezione": 1,
+      "german": "das Alter",
+      "italian": "l'età",
+      "example": "Ich bin zwanzig Jahre alt.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w28",
-      "tedesco": "der Beruf",
-      "italiano": "la professione",
-      "frase": "Mein Beruf ist Physiotherapeut.",
-      "lezione": 1,
+      "german": "der Beruf",
+      "italian": "la professione",
+      "example": "Mein Beruf ist Physiotherapeut.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w29",
-      "tedesco": "die Arbeit",
-      "italiano": "il lavoro",
-      "frase": "Die Arbeit ist interessant.",
-      "lezione": 1,
+      "german": "die Arbeit",
+      "italian": "il lavoro",
+      "example": "Die Arbeit ist interessant.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w30",
-      "tedesco": "die Woche",
-      "italiano": "la settimana",
-      "frase": "Die Woche hat sieben Tage.",
-      "lezione": 1,
+      "german": "die Woche",
+      "italian": "la settimana",
+      "example": "Die Woche hat sieben Tage.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w31",
-      "tedesco": "das Jahr",
-      "italiano": "l'anno",
-      "frase": "Das Jahr hat zwölf Monate.",
-      "lezione": 1,
+      "german": "das Jahr",
+      "italian": "l'anno",
+      "example": "Das Jahr hat zwölf Monate.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w32",
-      "tedesco": "der Tag",
-      "italiano": "il giorno",
-      "frase": "Der Tag ist lang.",
-      "lezione": 1,
+      "german": "der Tag",
+      "italian": "il giorno",
+      "example": "Der Tag ist lang.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w33",
-      "tedesco": "die Sprache",
-      "italiano": "la lingua",
-      "frase": "Die deutsche Sprache ist schwer.",
-      "lezione": 1,
+      "german": "die Sprache",
+      "italian": "la lingua",
+      "example": "Die deutsche Sprache ist schwer.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w34",
-      "tedesco": "die Stadt",
-      "italiano": "la città",
-      "frase": "Brixen ist eine schöne Stadt.",
-      "lezione": 1,
+      "german": "die Stadt",
+      "italian": "la città",
+      "example": "Brixen ist eine schöne Stadt.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w35",
-      "tedesco": "das Land",
-      "italiano": "il paese",
-      "frase": "Italien ist ein großes Land.",
-      "lezione": 1,
+      "german": "das Land",
+      "italian": "il paese",
+      "example": "Italien ist ein großes Land.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w36",
-      "tedesco": "die Uhr",
-      "italiano": "l'ora",
-      "frase": "Es ist neun Uhr.",
-      "lezione": 1,
+      "german": "die Uhr",
+      "italian": "l'ora",
+      "example": "Es ist neun Uhr.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w37",
-      "tedesco": "die Mutter",
-      "italiano": "la mamma",
-      "frase": "Meine Mutter heißt Maria.",
-      "lezione": 1,
+      "german": "die Mutter",
+      "italian": "la mamma",
+      "example": "Meine Mutter heißt Maria.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w38",
-      "tedesco": "der Vater",
-      "italiano": "il papà",
-      "frase": "Mein Vater wohnt in Rom.",
-      "lezione": 1,
+      "german": "der Vater",
+      "italian": "il papà",
+      "example": "Mein Vater wohnt in Rom.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w39",
-      "tedesco": "der Bruder",
-      "italiano": "il fratello",
-      "frase": "Ich habe einen Bruder.",
-      "lezione": 1,
+      "german": "der Bruder",
+      "italian": "il fratello",
+      "example": "Ich habe einen Bruder.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w40",
-      "tedesco": "die Schwester",
-      "italiano": "la sorella",
-      "frase": "Ich habe eine Schwester.",
-      "lezione": 1,
+      "german": "die Schwester",
+      "italian": "la sorella",
+      "example": "Ich habe eine Schwester.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w41",
-      "tedesco": "der Freund",
-      "italiano": "l'amico",
-      "frase": "Mein Freund studiert in Brixen.",
-      "lezione": 1,
+      "german": "der Freund",
+      "italian": "l'amico",
+      "example": "Mein Freund studiert in Brixen.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w42",
-      "tedesco": "die Freundin",
-      "italiano": "l'amica",
-      "frase": "Meine Freundin studiert in Brixen.",
-      "lezione": 1,
+      "german": "die Freundin",
+      "italian": "l'amica",
+      "example": "Meine Freundin studiert in Brixen.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w43",
-      "tedesco": "die Eltern",
-      "italiano": "i genitori",
-      "frase": "Meine Eltern sind jung.",
-      "lezione": 1,
+      "german": "die Eltern",
+      "italian": "i genitori",
+      "example": "Meine Eltern sind jung.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w44",
-      "tedesco": "die Familie",
-      "italiano": "la famiglia",
-      "frase": "Meine Familie ist klein.",
-      "lezione": 1,
+      "german": "die Familie",
+      "italian": "la famiglia",
+      "example": "Meine Familie ist klein.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w45",
-      "tedesco": "die Schule",
-      "italiano": "la scuola",
-      "frase": "Die Schule ist groß.",
-      "lezione": 1,
+      "german": "die Schule",
+      "italian": "la scuola",
+      "example": "Die Schule ist groß.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w46",
-      "tedesco": "die Universität",
-      "italiano": "l'università",
-      "frase": "Die Universität ist in Bozen.",
-      "lezione": 1,
+      "german": "die Universität",
+      "italian": "l'università",
+      "example": "Die Universität ist in Bozen.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w47",
-      "tedesco": "das Zimmer",
-      "italiano": "la stanza",
-      "frase": "Mein Zimmer ist klein.",
-      "lezione": 1,
+      "german": "das Zimmer",
+      "italian": "la stanza",
+      "example": "Mein Zimmer ist klein.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w48",
-      "tedesco": "die Tür",
-      "italiano": "la porta",
-      "frase": "Die Tür ist zu.",
-      "lezione": 1,
+      "german": "die Tür",
+      "italian": "la porta",
+      "example": "Die Tür ist zu.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w49",
-      "tedesco": "das Fenster",
-      "italiano": "la finestra",
-      "frase": "Das Fenster ist offen.",
-      "lezione": 1,
+      "german": "das Fenster",
+      "italian": "la finestra",
+      "example": "Das Fenster ist offen.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w50",
-      "tedesco": "der Tisch",
-      "italiano": "il tavolo",
-      "frase": "Der Tisch ist groß.",
-      "lezione": 1,
+      "german": "der Tisch",
+      "italian": "il tavolo",
+      "example": "Der Tisch ist groß.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w51",
-      "tedesco": "der Stuhl",
-      "italiano": "la sedia",
-      "frase": "Der Stuhl ist neu.",
-      "lezione": 1,
+      "german": "der Stuhl",
+      "italian": "la sedia",
+      "example": "Der Stuhl ist neu.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w52",
-      "tedesco": "das Buch",
-      "italiano": "il libro",
-      "frase": "Das Buch ist interessant.",
-      "lezione": 1,
+      "german": "das Buch",
+      "italian": "il libro",
+      "example": "Das Buch ist interessant.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w53",
-      "tedesco": "das Geld",
-      "italiano": "i soldi",
-      "frase": "Ich habe kein Geld.",
-      "lezione": 1,
+      "german": "das Geld",
+      "italian": "i soldi",
+      "example": "Ich habe kein Geld.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w54",
-      "tedesco": "die Zeit",
-      "italiano": "il tempo",
-      "frase": "Ich habe keine Zeit.",
-      "lezione": 1,
+      "german": "die Zeit",
+      "italian": "il tempo",
+      "example": "Ich habe keine Zeit.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w55",
-      "tedesco": "heute",
-      "italiano": "oggi",
-      "frase": "Heute lerne ich Deutsch.",
-      "lezione": 1,
+      "german": "heute",
+      "italian": "oggi",
+      "example": "Heute lerne ich Deutsch.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w56",
-      "tedesco": "morgen",
-      "italiano": "domani",
-      "frase": "Morgen arbeite ich.",
-      "lezione": 1,
+      "german": "morgen",
+      "italian": "domani",
+      "example": "Morgen arbeite ich.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w57",
-      "tedesco": "gestern",
-      "italiano": "ieri",
-      "frase": "Gestern war ich müde.",
-      "lezione": 1,
+      "german": "gestern",
+      "italian": "ieri",
+      "example": "Gestern war ich müde.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w58",
-      "tedesco": "der Montag",
-      "italiano": "lunedì",
-      "frase": "Am Montag arbeite ich.",
-      "lezione": 1,
+      "german": "der Montag",
+      "italian": "lunedì",
+      "example": "Am Montag arbeite ich.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w59",
-      "tedesco": "das Wochenende",
-      "italiano": "il fine settimana",
-      "frase": "Am Wochenende habe ich Zeit.",
-      "lezione": 1,
+      "german": "das Wochenende",
+      "italian": "il fine settimana",
+      "example": "Am Wochenende habe ich Zeit.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w60",
-      "tedesco": "jetzt",
-      "italiano": "adesso, ora",
-      "frase": "Jetzt spreche ich Deutsch.",
-      "lezione": 1,
+      "german": "jetzt",
+      "italian": "adesso, ora",
+      "example": "Jetzt spreche ich Deutsch.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w61",
-      "tedesco": "immer",
-      "italiano": "sempre",
-      "frase": "Ich lerne immer.",
-      "lezione": 1,
+      "german": "immer",
+      "italian": "sempre",
+      "example": "Ich lerne immer.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w62",
-      "tedesco": "oft",
-      "italiano": "spesso",
-      "frase": "Ich arbeite oft.",
-      "lezione": 1,
+      "german": "oft",
+      "italian": "spesso",
+      "example": "Ich arbeite oft.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w63",
-      "tedesco": "nie",
-      "italiano": "mai",
-      "frase": "Ich bin nie müde.",
-      "lezione": 1,
+      "german": "nie",
+      "italian": "mai",
+      "example": "Ich bin nie müde.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w64",
-      "tedesco": "groß",
-      "italiano": "grande",
-      "frase": "Der Tisch ist groß.",
-      "lezione": 1,
+      "german": "groß",
+      "italian": "grande",
+      "example": "Der Tisch ist groß.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w65",
-      "tedesco": "klein",
-      "italiano": "piccolo",
-      "frase": "Mein Zimmer ist klein.",
-      "lezione": 1,
+      "german": "klein",
+      "italian": "piccolo",
+      "example": "Mein Zimmer ist klein.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w66",
-      "tedesco": "neu",
-      "italiano": "nuovo",
-      "frase": "Der Stuhl ist neu.",
-      "lezione": 1,
+      "german": "neu",
+      "italian": "nuovo",
+      "example": "Der Stuhl ist neu.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w67",
-      "tedesco": "alt",
-      "italiano": "vecchio",
-      "frase": "Der Tisch ist alt.",
-      "lezione": 1,
+      "german": "alt",
+      "italian": "vecchio",
+      "example": "Der Tisch ist alt.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w68",
-      "tedesco": "jung",
-      "italiano": "giovane",
-      "frase": "Ich bin jung.",
-      "lezione": 1,
+      "german": "jung",
+      "italian": "giovane",
+      "example": "Ich bin jung.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w69",
-      "tedesco": "gut",
-      "italiano": "buono",
-      "frase": "Das Essen ist gut.",
-      "lezione": 1,
+      "german": "gut",
+      "italian": "buono",
+      "example": "Das Essen ist gut.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w70",
-      "tedesco": "schön",
-      "italiano": "bello",
-      "frase": "Brixen ist schön.",
-      "lezione": 1,
+      "german": "schön",
+      "italian": "bello",
+      "example": "Brixen ist schön.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w71",
-      "tedesco": "teuer",
-      "italiano": "caro",
-      "frase": "Das Buch ist teuer.",
-      "lezione": 1,
+      "german": "teuer",
+      "italian": "caro",
+      "example": "Das Buch ist teuer.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w72",
-      "tedesco": "billig",
-      "italiano": "economico",
-      "frase": "Das Brot ist billig.",
-      "lezione": 1,
+      "german": "billig",
+      "italian": "economico",
+      "example": "Das Brot ist billig.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w73",
-      "tedesco": "schwer",
-      "italiano": "difficile",
-      "frase": "Deutsch ist schwer.",
-      "lezione": 1,
+      "german": "schwer",
+      "italian": "difficile",
+      "example": "Deutsch ist schwer.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w74",
-      "tedesco": "leicht",
-      "italiano": "facile",
-      "frase": "Die Lektion ist leicht.",
-      "lezione": 1,
+      "german": "leicht",
+      "italian": "facile",
+      "example": "Die Lektion ist leicht.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w75",
-      "tedesco": "müde",
-      "italiano": "stanco",
-      "frase": "Ich bin heute müde.",
-      "lezione": 1,
+      "german": "müde",
+      "italian": "stanco",
+      "example": "Ich bin heute müde.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w76",
-      "tedesco": "ja",
-      "italiano": "sì",
-      "frase": "Ja, ich spreche Deutsch.",
-      "lezione": 1,
+      "german": "ja",
+      "italian": "sì",
+      "example": "Ja, ich spreche Deutsch.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w77",
-      "tedesco": "nein",
-      "italiano": "no",
-      "frase": "Nein, ich arbeite nicht.",
-      "lezione": 1,
+      "german": "nein",
+      "italian": "no",
+      "example": "Nein, ich arbeite nicht.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w78",
-      "tedesco": "bitte",
-      "italiano": "per favore",
-      "frase": "Ein Bier, bitte.",
-      "lezione": 1,
+      "german": "bitte",
+      "italian": "per favore",
+      "example": "Ein Bier, bitte.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w79",
-      "tedesco": "danke",
-      "italiano": "grazie",
-      "frase": "Danke schön.",
-      "lezione": 1,
+      "german": "danke",
+      "italian": "grazie",
+      "example": "Danke schön.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w80",
-      "tedesco": "auch",
-      "italiano": "anche",
-      "frase": "Ich spreche auch Englisch.",
-      "lezione": 1,
+      "german": "auch",
+      "italian": "anche",
+      "example": "Ich spreche auch Englisch.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w81",
-      "tedesco": "sehr",
-      "italiano": "molto",
-      "frase": "Sehr gut, danke.",
-      "lezione": 1,
+      "german": "sehr",
+      "italian": "molto",
+      "example": "Sehr gut, danke.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w82",
-      "tedesco": "nicht",
-      "italiano": "non",
-      "frase": "Ich habe nicht Zeit.",
-      "lezione": 1,
+      "german": "nicht",
+      "italian": "non",
+      "example": "Ich habe nicht Zeit.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w83",
-      "tedesco": "hier",
-      "italiano": "qui",
-      "frase": "Ich wohne hier.",
-      "lezione": 1,
+      "german": "hier",
+      "italian": "qui",
+      "example": "Ich wohne hier.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w84",
-      "tedesco": "dort",
-      "italiano": "lì",
-      "frase": "Die Schule ist dort.",
-      "lezione": 1,
+      "german": "dort",
+      "italian": "lì",
+      "example": "Die Schule ist dort.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w85",
-      "tedesco": "bei",
-      "italiano": "da (vicino a)",
-      "frase": "Ich wohne bei meiner Freundin.",
-      "lezione": 1,
+      "german": "bei",
+      "italian": "da (vicino a)",
+      "example": "Ich wohne bei meiner Freundin.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w86",
-      "tedesco": "mit",
-      "italiano": "con",
-      "frase": "Ich lerne mit einem Freund.",
-      "lezione": 1,
+      "german": "mit",
+      "italian": "con",
+      "example": "Ich lerne mit einem Freund.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w87",
-      "tedesco": "ohne",
-      "italiano": "senza",
-      "frase": "Ich lerne ohne Hilfe.",
-      "lezione": 1,
+      "german": "ohne",
+      "italian": "senza",
+      "example": "Ich lerne ohne Hilfe.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w88",
-      "tedesco": "aber",
-      "italiano": "ma",
-      "frase": "Ich bin müde, aber ich lerne.",
-      "lezione": 1,
+      "german": "aber",
+      "italian": "ma",
+      "example": "Ich bin müde, aber ich lerne.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w89",
-      "tedesco": "weil",
-      "italiano": "perché",
-      "frase": "Ich lerne, weil ich in Brixen arbeiten will.",
-      "lezione": 1,
+      "german": "weil",
+      "italian": "perché",
+      "example": "Ich lerne, weil ich in Brixen arbeiten will.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w90",
-      "tedesco": "eins",
-      "italiano": "1 (numero)",
-      "frase": "Eins, zwei, drei!",
-      "lezione": 1,
+      "german": "eins",
+      "italian": "1 (numero)",
+      "example": "Eins, zwei, drei!",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w91",
-      "tedesco": "zwei",
-      "italiano": "2 (numero)",
-      "frase": "Er ist zwei Jahre alt.",
-      "lezione": 1,
+      "german": "zwei",
+      "italian": "2 (numero)",
+      "example": "Er ist zwei Jahre alt.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w92",
-      "tedesco": "drei",
-      "italiano": "3 (numero)",
-      "frase": "Sie ist drei Jahre alt.",
-      "lezione": 1,
+      "german": "drei",
+      "italian": "3 (numero)",
+      "example": "Sie ist drei Jahre alt.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w93",
-      "tedesco": "vier",
-      "italiano": "4 (numero)",
-      "frase": "Es ist vier Jahre alt.",
-      "lezione": 1,
+      "german": "vier",
+      "italian": "4 (numero)",
+      "example": "Es ist vier Jahre alt.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w94",
-      "tedesco": "fünf",
-      "italiano": "5 (numero)",
-      "frase": "Ich habe fünf Bücher.",
-      "lezione": 1,
+      "german": "fünf",
+      "italian": "5 (numero)",
+      "example": "Ich habe fünf Bücher.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w95",
-      "tedesco": "sechs",
-      "italiano": "6 (numero)",
-      "frase": "Ich schlafe sechs Stunden.",
-      "lezione": 1,
+      "german": "sechs",
+      "italian": "6 (numero)",
+      "example": "Ich schlafe sechs Stunden.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w96",
-      "tedesco": "sieben",
-      "italiano": "7 (numero)",
-      "frase": "Die Woche hat sieben Tage.",
-      "lezione": 1,
+      "german": "sieben",
+      "italian": "7 (numero)",
+      "example": "Die Woche hat sieben Tage.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w97",
-      "tedesco": "acht",
-      "italiano": "8 (numero)",
-      "frase": "Es ist acht Uhr.",
-      "lezione": 1,
+      "german": "acht",
+      "italian": "8 (numero)",
+      "example": "Es ist acht Uhr.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w98",
-      "tedesco": "neun",
-      "italiano": "9 (numero)",
-      "frase": "Es ist neun Uhr.",
-      "lezione": 1,
+      "german": "neun",
+      "italian": "9 (numero)",
+      "example": "Es ist neun Uhr.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w99",
-      "tedesco": "zehn",
-      "italiano": "10 (numero)",
-      "frase": "Ich bin zehn Jahre alt.",
-      "lezione": 1,
+      "german": "zehn",
+      "italian": "10 (numero)",
+      "example": "Ich bin zehn Jahre alt.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
-      ]
+      ],
+      "archived": false
     },
     {
       "id": "w100",
-      "tedesco": "die Zahl",
-      "italiano": "il numero",
-      "frase": "Die Zahl ist schön.",
-      "lezione": 1,
+      "german": "die Zahl",
+      "italian": "il numero",
+      "example": "Die Zahl ist schön.",
+      "article": null,
+      "pronunciation": null,
+      "level": "A1",
+      "lesson": 1,
       "tags": [
         "sostantivo"
-      ]
+      ],
+      "archived": false
     }
   ],
   "lessons": [
