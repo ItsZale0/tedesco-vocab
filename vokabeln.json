@@ -1,29 +1,21 @@
 {
-  "version": 4,
-  "generatedAt": "2026-10-06T07:01:38Z",
+  "version": 5,
+  "generatedAt": "2026-10-06T07:02:07Z",
   "guida": {
     "titolo": "Guida per Iniziare lo Studio del Tedesco",
     "docUrl": "https://docs.google.com/document/d/10nURqro0VwrYZPDeolwwXx9ubmaES28AmPnYpd9Yi2w/edit",
     "sezioni": [
       {
+        "titolo": "Guida per Iniziare lo Studio del Tedesco",
+        "testo": "Profilo di partenza: Madrelingua Italiano | Livello C1 in Inglese | Principiante assoluto in Tedesco (A1)"
+      },
+      {
         "titolo": "1. Perché il C1 in Inglese è il tuo Vantaggio Principale",
-        "testo": "Sia l'inglese che il tedesco appartengono alla famiglia delle lingue germaniche. Avere un livello avanzato in inglese facilita enormemente l'apprendimento del tedesco rispetto a chi parla solo una lingua romanza come l'italiano."
+        "testo": "Sia l'inglese che il tedesco appartengono alla famiglia delle lingue germaniche. Avere un livello avanzato in inglese facilita enormemente l'apprendimento del tedesco rispetto a chi parla solo una lingua romanza come l'italiano.\n\nSomiglianze Vocabolario (Cognati Inglese-Tedesco)\nInglese\nTedesco\nItaliano\nHouse\nHaus\nCasa\nWater\nWasser\nAcqua\nBook\nBuch\nLibro\nApple\nApfel\nMela\nTo drink\nTrinken\nBere\nSummer\nSommer\nEstate"
       },
       {
-        "titolo": "1. Perché il C1 in Inglese è il tuo Vantaggio Principale — Somiglianze Vocabolario (Cognati Inglese-Tedesco)",
-        "testo": "Inglese\nTedesco\nItaliano\nHouse\nHaus\nCasa\nWater\nWasser\nAcqua\nBook\nBuch\nLibro\nApple\nApfel\nMela\nTo drink\nTrinken\nBere\nSummer\nSommer\nEstate"
-      },
-      {
-        "titolo": "I Tre Generi e gli Articoli Determinativi",
-        "testo": "A differenza dell'italiano (maschile e femminile), il tedesco ha tre generi. È fondamentale imparare ogni sostantivo direttamente con il suo articolo:\nMaschile: der (es. der Tisch - il tavolo)\nFemminile: die (es. die Lampe - la lampada)\nNeutro: das (es. das Buch - il libro)"
-      },
-      {
-        "titolo": "I Tre Generi e gli Articoli Determinativi — I Casi Grammaticali",
-        "testo": "Il tedesco utilizza i casi per definire la funzione logica delle parole nella frase:\nNominativo: Soggetto della frase.\nAccusativo: Complemento oggetto diretto.\nDativo: Complemento di termine/oggetto indiretto.\nGenitivo: Complemento di specificazione/possesso."
-      },
-      {
-        "titolo": "I Tre Generi e gli Articoli Determinativi — I Casi Grammaticali — Struttura della Frase (SVO e V2)",
-        "testo": "Nelle frasi principali, il verbo coniugato occupa sempre la seconda posizione.\nNelle frasi subordinate, il verbo coniugato slitta alla fine della frase."
+        "titolo": "2. Concetti Chiave della Grammatica Tedesca",
+        "testo": "I Tre Generi e gli Articoli Determinativi\nA differenza dell'italiano (maschile e femminile), il tedesco ha tre generi. È fondamentale imparare ogni sostantivo direttamente con il suo articolo:\nMaschile: der (es. der Tisch - il tavolo)\nFemminile: die (es. die Lampe - la lampada)\nNeutro: das (es. das Buch - il libro)\n\nI Casi Grammaticali\nIl tedesco utilizza i casi per definire la funzione logica delle parole nella frase:\nNominativo: Soggetto della frase.\nAccusativo: Complemento oggetto diretto.\nDativo: Complemento di termine/oggetto indiretto.\nGenitivo: Complemento di specificazione/possesso.\n\nStruttura della Frase (SVO e V2)\nNelle frasi principali, il verbo coniugato occupa sempre la seconda posizione.\nNelle frasi subordinate, il verbo coniugato slitta alla fine della frase."
       },
       {
         "titolo": "3. Piano di Studio e Consigli Pratici",
