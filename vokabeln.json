@@ -1,6 +1,6 @@
 {
-  "version": 11,
-  "generatedAt": "2026-10-06T19:46:59Z",
+  "version": 12,
+  "generatedAt": "2026-10-06T20:41:37Z",
   "guida": {
     "titolo": "Verbi irregolari tedeschi (livello A0)",
     "docUrl": "https://docs.google.com/document/d/12yKY4Bpp6IqX7q8tgNYkFXIoAQsZR8yVd4mZhcD5I7g/edit",
@@ -39,7 +39,7 @@
       "example": "Ich bin Alessandro.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "pronome"
@@ -53,7 +53,7 @@
       "example": "Du bist mein Freund.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "pronome"
@@ -67,7 +67,7 @@
       "example": "Er ist mein Bruder.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "pronome"
@@ -81,7 +81,7 @@
       "example": "Sie ist Studentin.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "pronome"
@@ -95,7 +95,7 @@
       "example": "Es ist ein Tisch.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "pronome"
@@ -109,7 +109,7 @@
       "example": "Wir sind Studenten.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "pronome"
@@ -123,7 +123,7 @@
       "example": "Ihr seid Studenten.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "pronome"
@@ -137,7 +137,7 @@
       "example": "Ich bin müde.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
@@ -151,7 +151,7 @@
       "example": "Ich habe Zeit.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
@@ -165,7 +165,7 @@
       "example": "Ich heiße Alessandro.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
@@ -179,7 +179,7 @@
       "example": "Ich wohne in Brixen.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
@@ -193,7 +193,7 @@
       "example": "Ich komme aus Italien.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
@@ -207,7 +207,7 @@
       "example": "Ich spreche Italienisch.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
@@ -221,7 +221,7 @@
       "example": "Ich lerne Deutsch.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
@@ -235,7 +235,7 @@
       "example": "Ich arbeite viel.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
@@ -249,7 +249,7 @@
       "example": "Ich studiere Physiotherapie.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
@@ -263,7 +263,7 @@
       "example": "Ich mache meine Arbeit.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
@@ -277,7 +277,7 @@
       "example": "Ich finde ein Buch.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
@@ -291,7 +291,7 @@
       "example": "Ich kaufe ein Buch.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
@@ -305,7 +305,7 @@
       "example": "Ich esse ein Brot.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
@@ -319,7 +319,7 @@
       "example": "Ich trinke Wasser.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
@@ -333,7 +333,7 @@
       "example": "Ich schlafe acht Stunden.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
@@ -347,7 +347,7 @@
       "example": "Ich verstehe nicht.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
@@ -361,7 +361,7 @@
       "example": "Du hilfst mir.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "aggettivo/avverbio"
@@ -375,7 +375,7 @@
       "example": "Der Mensch ist freundlich.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
+      "level": "A0",
       "lesson": 1,
       "tags": [
         "sostantivo"
@@ -390,7 +390,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -404,7 +404,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -418,7 +418,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -432,7 +432,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -446,7 +446,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -460,7 +460,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -474,7 +474,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -488,7 +488,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -502,7 +502,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -516,7 +516,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -530,7 +530,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -544,7 +544,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -558,7 +558,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -572,7 +572,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -586,7 +586,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -600,7 +600,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -614,7 +614,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -628,7 +628,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -642,7 +642,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -656,7 +656,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -670,7 +670,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -684,7 +684,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -698,7 +698,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -712,7 +712,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -726,7 +726,7 @@
       "article": null,
       "pronunciation": null,
       "level": "A1",
-      "lesson": 1,
+      "lesson": 2,
       "tags": [
         "sostantivo"
       ],
@@ -739,8 +739,8 @@
       "example": "Der Stuhl ist neu.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "sostantivo"
       ],
@@ -753,8 +753,8 @@
       "example": "Das Buch ist interessant.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "sostantivo"
       ],
@@ -767,8 +767,8 @@
       "example": "Ich habe kein Geld.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "sostantivo"
       ],
@@ -781,8 +781,8 @@
       "example": "Ich habe keine Zeit.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "sostantivo"
       ],
@@ -795,8 +795,8 @@
       "example": "Heute lerne ich Deutsch.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -809,8 +809,8 @@
       "example": "Morgen arbeite ich.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -823,8 +823,8 @@
       "example": "Gestern war ich müde.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -837,8 +837,8 @@
       "example": "Am Montag arbeite ich.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "sostantivo"
       ],
@@ -851,8 +851,8 @@
       "example": "Am Wochenende habe ich Zeit.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "sostantivo"
       ],
@@ -865,8 +865,8 @@
       "example": "Jetzt spreche ich Deutsch.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -879,8 +879,8 @@
       "example": "Ich lerne immer.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -893,8 +893,8 @@
       "example": "Ich arbeite oft.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -907,8 +907,8 @@
       "example": "Ich bin nie müde.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -921,8 +921,8 @@
       "example": "Der Tisch ist groß.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -935,8 +935,8 @@
       "example": "Mein Zimmer ist klein.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -949,8 +949,8 @@
       "example": "Der Stuhl ist neu.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -963,8 +963,8 @@
       "example": "Der Tisch ist alt.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -977,8 +977,8 @@
       "example": "Ich bin jung.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -991,8 +991,8 @@
       "example": "Das Essen ist gut.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1005,8 +1005,8 @@
       "example": "Brixen ist schön.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1019,8 +1019,8 @@
       "example": "Das Buch ist teuer.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1033,8 +1033,8 @@
       "example": "Das Brot ist billig.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1047,8 +1047,8 @@
       "example": "Deutsch ist schwer.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1061,8 +1061,8 @@
       "example": "Die Lektion ist leicht.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1075,8 +1075,8 @@
       "example": "Ich bin heute müde.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "A2",
+      "lesson": 3,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1089,8 +1089,8 @@
       "example": "Ja, ich spreche Deutsch.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1103,8 +1103,8 @@
       "example": "Nein, ich arbeite nicht.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1117,8 +1117,8 @@
       "example": "Ein Bier, bitte.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1131,8 +1131,8 @@
       "example": "Danke schön.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1145,8 +1145,8 @@
       "example": "Ich spreche auch Englisch.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1159,8 +1159,8 @@
       "example": "Sehr gut, danke.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1173,8 +1173,8 @@
       "example": "Ich habe nicht Zeit.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1187,8 +1187,8 @@
       "example": "Ich wohne hier.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1201,8 +1201,8 @@
       "example": "Die Schule ist dort.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1215,8 +1215,8 @@
       "example": "Ich wohne bei meiner Freundin.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1229,8 +1229,8 @@
       "example": "Ich lerne mit einem Freund.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1243,8 +1243,8 @@
       "example": "Ich lerne ohne Hilfe.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1257,8 +1257,8 @@
       "example": "Ich bin müde, aber ich lerne.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1271,8 +1271,8 @@
       "example": "Ich lerne, weil ich in Brixen arbeiten will.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1285,8 +1285,8 @@
       "example": "Eins, zwei, drei!",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1299,8 +1299,8 @@
       "example": "Er ist zwei Jahre alt.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1313,8 +1313,8 @@
       "example": "Sie ist drei Jahre alt.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1327,8 +1327,8 @@
       "example": "Es ist vier Jahre alt.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1341,8 +1341,8 @@
       "example": "Ich habe fünf Bücher.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1355,8 +1355,8 @@
       "example": "Ich schlafe sechs Stunden.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1369,8 +1369,8 @@
       "example": "Die Woche hat sieben Tage.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1383,8 +1383,8 @@
       "example": "Es ist acht Uhr.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1397,8 +1397,8 @@
       "example": "Es ist neun Uhr.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1411,8 +1411,8 @@
       "example": "Ich bin zehn Jahre alt.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "aggettivo/avverbio"
       ],
@@ -1425,8 +1425,8 @@
       "example": "Die Zahl ist schön.",
       "article": null,
       "pronunciation": null,
-      "level": "A1",
-      "lesson": 1,
+      "level": "B1",
+      "lesson": 4,
       "tags": [
         "sostantivo"
       ],
