@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "generatedAt": "2026-10-06T07:02:07Z",
+  "version": 6,
+  "generatedAt": "2026-10-06T07:02:35Z",
   "guida": {
     "titolo": "Guida per Iniziare lo Studio del Tedesco",
     "docUrl": "https://docs.google.com/document/d/10nURqro0VwrYZPDeolwwXx9ubmaES28AmPnYpd9Yi2w/edit",
@@ -11,7 +11,7 @@
       },
       {
         "titolo": "1. Perché il C1 in Inglese è il tuo Vantaggio Principale",
-        "testo": "Sia l'inglese che il tedesco appartengono alla famiglia delle lingue germaniche. Avere un livello avanzato in inglese facilita enormemente l'apprendimento del tedesco rispetto a chi parla solo una lingua romanza come l'italiano.\n\nSomiglianze Vocabolario (Cognati Inglese-Tedesco)\nInglese\nTedesco\nItaliano\nHouse\nHaus\nCasa\nWater\nWasser\nAcqua\nBook\nBuch\nLibro\nApple\nApfel\nMela\nTo drink\nTrinken\nBere\nSummer\nSommer\nEstate"
+        "testo": "Sia l'inglese che il tedesco appartengono alla famiglia delle lingue germaniche. Avere un livello avanzato in inglese facilita enormemente l'apprendimento del tedesco rispetto a chi parla solo una lingua romanza come l'italiano.\n\nSomiglianze Vocabolario (Cognati Inglese-Tedesco)\nInglese | Tedesco | Italiano\nHouse | Haus | Casa\nWater | Wasser | Acqua\nBook | Buch | Libro\nApple | Apfel | Mela\nTo drink | Trinken | Bere\nSummer | Sommer | Estate"
       },
       {
         "titolo": "2. Concetti Chiave della Grammatica Tedesca",
