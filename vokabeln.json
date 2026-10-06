@@ -1,25 +1,33 @@
 {
-  "version": 6,
-  "generatedAt": "2026-10-06T07:02:35Z",
+  "version": 7,
+  "generatedAt": "2026-10-06T08:59:27Z",
   "guida": {
-    "titolo": "Guida per Iniziare lo Studio del Tedesco",
-    "docUrl": "https://docs.google.com/document/d/10nURqro0VwrYZPDeolwwXx9ubmaES28AmPnYpd9Yi2w/edit",
+    "titolo": "Verbi irregolari tedeschi (livello A0)",
+    "docUrl": "https://docs.google.com/document/d/12yKY4Bpp6IqX7q8tgNYkFXIoAQsZR8yVd4mZhcD5I7g/edit",
     "sezioni": [
       {
-        "titolo": "Guida per Iniziare lo Studio del Tedesco",
-        "testo": "Profilo di partenza: Madrelingua Italiano | Livello C1 in Inglese | Principiante assoluto in Tedesco (A1)"
+        "titolo": "Verbi irregolari tedeschi (livello A0)",
+        "testo": "Scheda 1\nLa S si legge Z se è all’inizio della parola, se invece ce sch si legge shhh,\nARTICOLI\nder=maschile\ndie=femminile\ndas=neutro\nsprechen= la c non si legge.\n\n1. Come è fatto un verbo regolare\nL'infinito finisce in -en. Togli -en e hai la radice:\nmachen (fare) → mach-\nlernen (imparare) → lern-\nspielen (giocare) → spiel-\nwohnen (abitare) → wohn-\n\n2. Il presente: aggiungi la desinenza\nPronome | Desinenza | lernen\nich (io) | -e | ich lerne\ndu (tu) | -st | du lernst\ner/sie/es (lui/lei) | -t | er lernt\nwir (noi) | -en | wir lernen\nihr (voi) | -t | ihr lernt\nsie/Sie (loro/Lei) | -en | sie lernen\nDa imparare a memoria: e, st, t, en, t, en\n\n3. Esempi\nIch wohne in Genua. (Abito a Genova.)\nDu lernst Deutsch. (Impari il tedesco.)\nWir spielen Fußball. (Giochiamo a calcio.)\nSie macht Hausaufgaben. (Lei fa i compiti.)\n\nAttenzione: una sola regola in più\nSe la radice finisce in -t o -d, aggiungi una -e- per pronunciare meglio:\narbeiten → du arbeitest, er arbeitet\nfinden → du findest, er findet\n\nIl resto per dopo\nPassato (gelernt, gemacht) e futuro li vediamo al livello A1. Per ora esercitati con il presente.\nMini-esercizio: completa con la forma giusta.\nIch ___ (machen) Pizza.\nDu ___ (wohnen) in Rom.\nEr ___ (lernen) Deutsch.\nWir ___ (spielen) Tennis.\n—----------------------------------------------------------------------------------------------------------------------------------\nI verbi irregolari cambiano qualcosa nella radice. Per ora ti serve solo il presente, e solo i più importanti. Le desinenze restano le stesse (e, st, t, en, t, en): cambia la vocale in du e er/sie/es."
       },
       {
-        "titolo": "1. Perché il C1 in Inglese è il tuo Vantaggio Principale",
-        "testo": "Sia l'inglese che il tedesco appartengono alla famiglia delle lingue germaniche. Avere un livello avanzato in inglese facilita enormemente l'apprendimento del tedesco rispetto a chi parla solo una lingua romanza come l'italiano.\n\nSomiglianze Vocabolario (Cognati Inglese-Tedesco)\nInglese | Tedesco | Italiano\nHouse | Haus | Casa\nWater | Wasser | Acqua\nBook | Buch | Libro\nApple | Apfel | Mela\nTo drink | Trinken | Bere\nSummer | Sommer | Estate"
+        "titolo": "1. I tre verbi fondamentali",
+        "testo": "Sono irregolari e vanno imparati a memoria.\nPronome | sein (essere) | haben (avere) | werden (diventare)\nich | bin | habe | werde\ndu | bist | hast | wirst\ner/sie/es | ist | hat | wird\nwir | sind | haben | werden\nihr | seid | habt | werdet\nsie/Sie | sind | haben | werden\nEsempi:\nIch bin Marco. (Sono Marco.)\nEr hat einen Hund. (Ha un cane.)"
       },
       {
-        "titolo": "2. Concetti Chiave della Grammatica Tedesca",
-        "testo": "I Tre Generi e gli Articoli Determinativi\nA differenza dell'italiano (maschile e femminile), il tedesco ha tre generi. È fondamentale imparare ogni sostantivo direttamente con il suo articolo:\nMaschile: der (es. der Tisch - il tavolo)\nFemminile: die (es. die Lampe - la lampada)\nNeutro: das (es. das Buch - il libro)\n\nI Casi Grammaticali\nIl tedesco utilizza i casi per definire la funzione logica delle parole nella frase:\nNominativo: Soggetto della frase.\nAccusativo: Complemento oggetto diretto.\nDativo: Complemento di termine/oggetto indiretto.\nGenitivo: Complemento di specificazione/possesso.\n\nStruttura della Frase (SVO e V2)\nNelle frasi principali, il verbo coniugato occupa sempre la seconda posizione.\nNelle frasi subordinate, il verbo coniugato slitta alla fine della frase."
+        "titolo": "2. Cambio di vocale (solo du ed er/sie/es)",
+        "testo": "Alcuni verbi cambiano la vocale della radice, ma solo in queste due persone.\na → ä\nPronome | fahren (andare con un mezzo) | schlafen (dormire)\nich | fahre | schlafe\ndu | fährst | schläfst\ner/sie/es | fährt | schläft\nwir | fahren | schlafen\nihr | fahrt | schlaft\nsie/Sie | fahren | schlafen\ne → i\nPronome | essen (mangiare) | sprechen (parlare)\nich | esse | spreche\ndu | isst | sprichst\ner/sie/es | isst | spricht\nwir | essen | sprechen\nihr | esst | sprecht\nsie/Sie | essen | sprechen\ne → ie: sehen (vedere) → du siehst, er sieht; lesen (leggere) → du liest, er liest"
       },
       {
-        "titolo": "3. Piano di Studio e Consigli Pratici",
-        "testo": "Studia usando risorse in inglese: Molti concetti grammaticali tedeschi si spiegano e si assimilano più facilmente attraverso l'inglese che attraverso l'italiano.\nMemorizza sostantivo + articolo: Non imparare mai una parola da sola; impara sempre il blocco articolo + sostantivo + plurale.\nPunta sui verbi ausiliari e di base: Inizia padroneggiando sein (essere), haben (avere) e werden (diventare)."
+        "titolo": "3. Verbi utili da memorizzare",
+        "testo": "Infinito | Significato | du | er/sie/es\nfahren | andare (con mezzo) | fährst | fährt\nschlafen | dormire | schläfst | schläft\nessen | mangiare | isst | isst\nsprechen | parlare | sprichst | spricht\nsehen | vedere | siehst | sieht\nlesen | leggere | liest | liest\nnehmen | prendere | nimmst | nimmt\ngeben | dare | gibst | gibt\nNota: nehmen cambia anche la consonante (ich nehme, du nimmst)."
+      },
+      {
+        "titolo": "4. Come riconoscerli",
+        "testo": "Se vedi il cambio di vocale, è solo in du e er/sie/es. Le altre persone sono come i verbi regolari."
+      },
+      {
+        "titolo": "Il resto per dopo",
+        "testo": "Il passato (ich war, ich habe gegessen) lo vediamo a livello A1.\nMini-esercizio: completa con la forma giusta.\nIch ___ (sein) Student.\nDu ___ (haben) Hunger.\nEr ___ (sprechen) Italienisch.\nSie ___ (essen) eine Pizza. (lei)\nDu ___ (lesen) ein Buch.\nEr ___ (fahren) nach Berlin.\nScrivi le tue risposte e te le correggo!\nherr=signore\nverbi\nFahren= guidare, andare.\ngehen= andare\nlessico\neinkaufen=andare a fare la spesa\nnumeri\n20 = zwanzig"
       }
     ]
   },
