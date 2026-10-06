@@ -1,33 +1,33 @@
 {
-  "version": 3,
-  "generatedAt": "2026-10-06T07:00:22Z",
+  "version": 4,
+  "generatedAt": "2026-10-06T07:01:38Z",
   "guida": {
     "titolo": "Guida per Iniziare lo Studio del Tedesco",
     "docUrl": "https://docs.google.com/document/d/10nURqro0VwrYZPDeolwwXx9ubmaES28AmPnYpd9Yi2w/edit",
     "sezioni": [
       {
-        "titolo": "Guida per Iniziare lo Studio del Tedesco",
-        "testo": "Profilo di partenza: Madrelingua Italiano | Livello C1 in Inglese | Principiante assoluto in Tedesco (A1)"
-      },
-      {
         "titolo": "1. Perché il C1 in Inglese è il tuo Vantaggio Principale",
         "testo": "Sia l'inglese che il tedesco appartengono alla famiglia delle lingue germaniche. Avere un livello avanzato in inglese facilita enormemente l'apprendimento del tedesco rispetto a chi parla solo una lingua romanza come l'italiano."
       },
       {
-        "titolo": "Somiglianze Vocabolario (Cognati Inglese-Tedesco) › Inglese › Tedesco › Italiano › House › Haus › Casa › Water › Wasser › Acqua › Book › Buch › Libro › Apple › Apfel › Mela › To drink › Trinken › Bere › Summer › Sommer › Estate › 2. Concetti Chiave della Grammatica Tedesca › I Tre Generi e gli Articoli Determinativi",
-        "testo": "A differenza dell'italiano (maschile e femminile), il tedesco ha tre generi. È fondamentale imparare ogni sostantivo direttamente con il suo articolo:"
+        "titolo": "1. Perché il C1 in Inglese è il tuo Vantaggio Principale — Somiglianze Vocabolario (Cognati Inglese-Tedesco)",
+        "testo": "Inglese\nTedesco\nItaliano\nHouse\nHaus\nCasa\nWater\nWasser\nAcqua\nBook\nBuch\nLibro\nApple\nApfel\nMela\nTo drink\nTrinken\nBere\nSummer\nSommer\nEstate"
       },
       {
-        "titolo": "* Maschile: der (es. der Tisch - il tavolo) › * Femminile: die (es. die Lampe - la lampada) › * Neutro: das (es. das Buch - il libro) › I Casi Grammaticali",
-        "testo": "Il tedesco utilizza i casi per definire la funzione logica delle parole nella frase:"
+        "titolo": "I Tre Generi e gli Articoli Determinativi",
+        "testo": "A differenza dell'italiano (maschile e femminile), il tedesco ha tre generi. È fondamentale imparare ogni sostantivo direttamente con il suo articolo:\nMaschile: der (es. der Tisch - il tavolo)\nFemminile: die (es. die Lampe - la lampada)\nNeutro: das (es. das Buch - il libro)"
       },
       {
-        "titolo": "1. Nominativo: Soggetto della frase. › 2. Accusativo: Complemento oggetto diretto. › 3. Dativo: Complemento di termine/oggetto indiretto. › 4. Genitivo: Complemento di specificazione/possesso. › Struttura della Frase (SVO e V2)",
-        "testo": "* Nelle frasi principali, il verbo coniugato occupa sempre la seconda posizione.\n* Nelle frasi subordinate, il verbo coniugato slitta alla fine della frase."
+        "titolo": "I Tre Generi e gli Articoli Determinativi — I Casi Grammaticali",
+        "testo": "Il tedesco utilizza i casi per definire la funzione logica delle parole nella frase:\nNominativo: Soggetto della frase.\nAccusativo: Complemento oggetto diretto.\nDativo: Complemento di termine/oggetto indiretto.\nGenitivo: Complemento di specificazione/possesso."
+      },
+      {
+        "titolo": "I Tre Generi e gli Articoli Determinativi — I Casi Grammaticali — Struttura della Frase (SVO e V2)",
+        "testo": "Nelle frasi principali, il verbo coniugato occupa sempre la seconda posizione.\nNelle frasi subordinate, il verbo coniugato slitta alla fine della frase."
       },
       {
         "titolo": "3. Piano di Studio e Consigli Pratici",
-        "testo": "* Studia usando risorse in inglese: Molti concetti grammaticali tedeschi si spiegano e si assimilano più facilmente attraverso l'inglese che attraverso l'italiano.\n* Memorizza sostantivo + articolo: Non imparare mai una parola da sola; impara sempre il blocco articolo + sostantivo + plurale.\n* Punta sui verbi ausiliari e di base: Inizia padroneggiando sein (essere), haben (avere) e werden (diventare)."
+        "testo": "Studia usando risorse in inglese: Molti concetti grammaticali tedeschi si spiegano e si assimilano più facilmente attraverso l'inglese che attraverso l'italiano.\nMemorizza sostantivo + articolo: Non imparare mai una parola da sola; impara sempre il blocco articolo + sostantivo + plurale.\nPunta sui verbi ausiliari e di base: Inizia padroneggiando sein (essere), haben (avere) e werden (diventare)."
       }
     ]
   },
