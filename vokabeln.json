@@ -1,6 +1,6 @@
 {
-  "version": 12,
-  "generatedAt": "2026-10-06T20:41:37Z",
+  "version": 13,
+  "generatedAt": "2026-10-07T14:17:14Z",
   "guida": {
     "titolo": "Verbi irregolari tedeschi (livello A0)",
     "docUrl": "https://docs.google.com/document/d/12yKY4Bpp6IqX7q8tgNYkFXIoAQsZR8yVd4mZhcD5I7g/edit",
@@ -35,7 +35,7 @@
     {
       "id": "w1",
       "german": "ich",
-      "italian": "io",
+      "italian": "(da completare)",
       "example": "Ich bin Alessandro.",
       "article": null,
       "pronunciation": null,
@@ -1431,30 +1431,293 @@
         "sostantivo"
       ],
       "archived": false
+    },
+    {
+      "id": "w101",
+      "german": "die Frau",
+      "italian": "la donna",
+      "example": "Die Frau ist müde.",
+      "article": null,
+      "pronunciation": null,
+      "level": "B1",
+      "lesson": 4,
+      "tags": [
+        "sostantivo"
+      ],
+      "archived": false
+    },
+    {
+      "id": "w102",
+      "german": "der Hund",
+      "italian": "il cane",
+      "example": "Der Hund ist gross.",
+      "article": null,
+      "pronunciation": null,
+      "level": "B1",
+      "lesson": 4,
+      "tags": [
+        "sostantivo"
+      ],
+      "archived": false
+    },
+    {
+      "id": "w103",
+      "german": "der Apfel",
+      "italian": "la mela",
+      "example": "Ich esse einen Apfel.",
+      "article": null,
+      "pronunciation": null,
+      "level": "B1",
+      "lesson": 4,
+      "tags": [
+        "sostantivo"
+      ],
+      "archived": false
+    },
+    {
+      "id": "w104",
+      "german": "das Kind",
+      "italian": "il bambino",
+      "example": "Das Kind spielt.",
+      "article": null,
+      "pronunciation": null,
+      "level": "B1",
+      "lesson": 4,
+      "tags": [
+        "sostantivo"
+      ],
+      "archived": false
+    },
+    {
+      "id": "w105",
+      "german": "elf",
+      "italian": "11 (numero)",
+      "example": "Elf ist eine Zahl.",
+      "article": null,
+      "pronunciation": null,
+      "level": "B1",
+      "lesson": 4,
+      "tags": [
+        "aggettivo/avverbio"
+      ],
+      "archived": false
+    },
+    {
+      "id": "w106",
+      "german": "zwölf",
+      "italian": "12 (numero)",
+      "example": "Zwölf Monate im Jahr.",
+      "article": null,
+      "pronunciation": null,
+      "level": "B1",
+      "lesson": 4,
+      "tags": [
+        "aggettivo/avverbio"
+      ],
+      "archived": false
+    },
+    {
+      "id": "w107",
+      "german": "dreizehn",
+      "italian": "13 (numero)",
+      "example": "Er ist dreizehn Jahre alt.",
+      "article": null,
+      "pronunciation": null,
+      "level": "B1",
+      "lesson": 4,
+      "tags": [
+        "aggettivo/avverbio"
+      ],
+      "archived": false
+    },
+    {
+      "id": "w108",
+      "german": "vierzehn",
+      "italian": "14 (numero)",
+      "example": "Vierzehn Tage sind zwei Wochen.",
+      "article": null,
+      "pronunciation": null,
+      "level": "B1",
+      "lesson": 4,
+      "tags": [
+        "aggettivo/avverbio"
+      ],
+      "archived": false
+    },
+    {
+      "id": "w109",
+      "german": "fünfzehn",
+      "italian": "15 (numero)",
+      "example": "Fünfzehn Minuten.",
+      "article": null,
+      "pronunciation": null,
+      "level": "B1",
+      "lesson": 4,
+      "tags": [
+        "aggettivo/avverbio"
+      ],
+      "archived": false
+    },
+    {
+      "id": "w110",
+      "german": "sechzehn",
+      "italian": "16 (numero)",
+      "example": "Sechzehn ist eine Zahl.",
+      "article": null,
+      "pronunciation": null,
+      "level": "B1",
+      "lesson": 4,
+      "tags": [
+        "aggettivo/avverbio"
+      ],
+      "archived": false
+    },
+    {
+      "id": "w111",
+      "german": "siebzehn",
+      "italian": "17 (numero)",
+      "example": "Siebzehn Jahre.",
+      "article": null,
+      "pronunciation": null,
+      "level": "B1",
+      "lesson": 4,
+      "tags": [
+        "aggettivo/avverbio"
+      ],
+      "archived": false
+    },
+    {
+      "id": "w112",
+      "german": "achtzehn",
+      "italian": "18 (numero)",
+      "example": "Er ist achtzehn Jahre alt.",
+      "article": null,
+      "pronunciation": null,
+      "level": "B1",
+      "lesson": 4,
+      "tags": [
+        "aggettivo/avverbio"
+      ],
+      "archived": false
+    },
+    {
+      "id": "w113",
+      "german": "neunzehn",
+      "italian": "19 (numero)",
+      "example": "Neunzehn ist eine Primzahl.",
+      "article": null,
+      "pronunciation": null,
+      "level": "B1",
+      "lesson": 4,
+      "tags": [
+        "aggettivo/avverbio"
+      ],
+      "archived": false
+    },
+    {
+      "id": "w114",
+      "german": "zwanzig",
+      "italian": "20 (numero)",
+      "example": "Ich bin zwanzig Jahre alt.",
+      "article": null,
+      "pronunciation": null,
+      "level": "B1",
+      "lesson": 4,
+      "tags": [
+        "aggettivo/avverbio"
+      ],
+      "archived": false
+    },
+    {
+      "id": "w115",
+      "german": "die Zahlen",
+      "italian": "i numeri",
+      "example": "Die Zahlen sind wichtig.",
+      "article": null,
+      "pronunciation": null,
+      "level": "B1",
+      "lesson": 4,
+      "tags": [
+        "sostantivo"
+      ],
+      "archived": false
+    },
+    {
+      "id": "w116",
+      "german": "die Wand",
+      "italian": "(da completare)",
+      "example": "Die Wand ist weiss.",
+      "article": null,
+      "pronunciation": null,
+      "level": "B1",
+      "lesson": 4,
+      "tags": [
+        "sostantivo"
+      ],
+      "archived": false
+    },
+    {
+      "id": "w117",
+      "german": "der Boden",
+      "italian": "(da completare)",
+      "example": "Der Boden ist sauber.",
+      "article": null,
+      "pronunciation": null,
+      "level": "B1",
+      "lesson": 4,
+      "tags": [
+        "sostantivo"
+      ],
+      "archived": false
+    },
+    {
+      "id": "w118",
+      "german": "die Decke",
+      "italian": "(da completare)",
+      "example": "Die Decke ist hoch.",
+      "article": null,
+      "pronunciation": null,
+      "level": "B1",
+      "lesson": 4,
+      "tags": [
+        "sostantivo"
+      ],
+      "archived": false
     }
   ],
   "lezioneCorrente": 1,
   "lessons": [
     {
       "numero": 1,
-      "titolo": "Presentarsi",
-      "data": "2026-10-05",
+      "titolo": "L01 - Presentarsi (riproposta)",
+      "data": "2026-10-07",
       "pdfUrl": "",
-      "contenuto": "## Presentarsi\n\n### Grammatica: sein e haben\n\n- **ich bin** (io sono) - per identità, nazionalità, professione\n- **ich habe** (io ho) - per possessi e caratteristiche\n\n### Esempi\n- Ich bin Alessandro. (Io sono Alessandro.)\n- Ich bin Student. (Io sono studente.)\n- Ich habe ein Buch. (Io ho un libro.)\n\n### Esercizi\n1. Ich ___ Alessandro. (bin)\n2. Ich ___ Student. (bin)\n3. Ich ___ ein Buch. (habe)\n4. Ich ___ 20 Jahre alt. (bin)\n5. Ich ___ eine Schwester. (habe)"
+      "contenuto": "# L01 - Presentarsi (riproposta)\n\nOggi riproviamo la lezione 1 perché non ho ricevuto le tue risposte ieri.\nOrdine: Ich → verbo → resto | sein vs heißen | nicht alla fine\n\n---\n\n## RIPASSO SPAZIATO (riscaldamento)\n\nPrima di andare avanti, ripassa questi elementi che tornano oggi.\nLeggi la domanda, **chiudi gli occhi e rispondi a voce**, poi controlla.\n\n| # | Domanda | Risposta |\n|---|---------|----------|\n| 1 | Ordine soggetto-verbo: Ich ______ Deutsch. | Ich lerne Deutsch. (Soggetto → Verbo → Resto) |\n| 2 | sein vs heißen: 'ich bin' vs 'ich heiße' | Usa 'ich bin' per 'sono', 'ich heiße' per 'mi chiamo'. |\n| 3 | Ich ______ Alessandro. | Ich heiße Alessandro. (Non: ich bin Alessandro!) |\n| 4 | ______ du Deutsch? | Lernst du Deutsch? (Domanda sì/no con inversione verbo-soggetto) |\n| 5 | Deutsch | tedesco |\n| 6 | du | tu |\n\n---\n\n## CONCETTO CHIAVE: ORDINE SOGGETTO → VERBO → RESTO\n\nIn tedesco l'ordine della frase semplice è **fisso**: **Soggetto → Verbo → Resto**.\nNon si può spostare come in italiano.\n\n| Tedesco | Soggetto | Verbo | Resto |\n|---------|----------|-------|-------|\n| Ich lerne Deutsch. | ich | lerne | Deutsch |\n| Du sprichst Deutsch. | du | sprichst | Deutsch |\n| Er ist Student. | er | ist | Student |\n\n**Regola d'oro: Ich → verbo → resto.** Non abbandonare mai il soggetto \"ich\" come in italiano \"Sono studente\".\n\n---\n\n## SEIN vs HEIẞEN (la confusione n.1)\n\n| Pronome | sein (essere) | heißen (chiamarsi) |\n|---------|---------------|---------------------|\n| ich | ich **bin** | ich **heiße** |\n| du | du **bist** | du **heißt** |\n| er/sie/es | er **ist** | er **heißt** |\n| wir | wir **sind** | wir **heißen** |\n| ihr | ihr **seid** | ihr **heißt** |\n| sie/Sie | sie **sind** | sie/Sie **heißen** |\n\n> **Mai dire \"ich heiße\" per \"sono\".** Usa sempre \"ich bin\" per l'essere.\n\n---\n\n## NEGAZIONE: NICHT\n\n**Nicht non si muove.** Va direttamente prima del verbo (o alla fine se c'è l'oggetto).\n\n- Ich lerne **nicht** Deutsch. (Io non studio tedesco.)\n- Er **ist nicht** Student. (Lui non è studente.)\n\n*Eccezione: **kein** sostituisce un articolo (kein Mann, keine Frau), nicht sta prima del verbo o alla fine.*\n\n---\n\n## DOMANDE SÌ/NO: INVERSIONE\n\nPer le domande sì/no si usa l'inversione **Verbo → Soggetto**.\n\n- **Lernst du Deutsch?** (Studi tedesco?)\n- **Ist er Student?** (È studente?)\n\nRisposta breve: **Ja, ich lerne.** / **Nein, ich lerne nicht.**\n\n---\n\n## LESSICO TEMATICO (sempre con articolo!)\n\n| Tedesco | Genere | Pronuncia | Frase d'esempio |\n|---------|--------|-----------|-----------------|\n| der Lehrer | maschile | lehr-er | **Der Lehrer** spricht Deutsch. |\n| der Student | maschile | studen-t | **Der Student** ist hier. |\n| ich | — | io | **Ich** bin Alessandro. |\n| du | — | tu | **Du** lernst Deutsch. |\n| gut | — | buono | Das ist **gut**. |\n| müde | — | mu-ide | Ich bin **müde**. |\n| nett | — | net | Er ist **nett**. |\n| Deutsch | maschile | doitsh | Ich spreche **Deutsch**. |\n\n---\n\n## ESERCIZI (5 totali — invia le risposte e le correggo)\n\n1. **Completa con il verbo giusto:** Ich ________ Student. (bin / heiße)\n2. **Ordina la frase:** du / Deutsch / sprichst.\n3. **Trasforma in negativo:** Ich lerne Deutsch. → Ich ________ lerne Deutsch.\n4. **Rispondi:** Wie heißt du?\n5. **Sì o no?** Ist er Student?\n\n---\n\n*Invia le tue 5 risposte su WhatsApp. Se oggi non puoi, scrivi **SKIP**.*",
+      "audioUrl": "https://raw.githubusercontent.com/ItsZale0/tedesco-vocab/main/audio/LEZIONE-1.mp3"
     },
     {
       "numero": 2,
-      "titolo": "La famiglia",
-      "data": "2026-10-06",
+      "titolo": "L02 - Numeri e età (A0)",
+      "data": "2026-10-07",
       "pdfUrl": "",
-      "contenuto": "## La famiglia\n\n### Grammatica: articoli e plurale\n\n- **der Vater** (il padre) - plurale: die Väter\n- **die Mutter** (la madre) - plurale: die Mütter\n- **das Kind** (il bambino) - plurale: die Kinder\n\n### Esempi\n- Das ist mein Bruder. (Questo è mio fratello.)\n- Das ist meine Schwester. (Questo è mia sorella.)\n- Ich habe zwei Geschwister. (Ho due fratelli/sorelle.)\n\n### Esercizi\n1. Das ist ___ Vater. (mein)\n2. Das ist ___ Mutter. (meine)\n3. Ich habe ___ Bruder. (einen)\n4. ___ Kinder spielen im Garten. (Die)\n5. ___ Mann liest ein Buch. (Der)"
+      "contenuto": "# L02 - Numeri e età (A0)\n\nOggi impari:\n• I numeri da 1 a 20 in tedesco\n• A dire la tua età\n• L'ordine fisso soggetto‑verbo‑resto (ripasso)\n• La differenza tra italiano e tedesco coi pronomi (ripasso)\n\n---\n\n## RIPASSO SPAZIATO (riscaldamento)\n\nPrima di andare avanti, ripassa questi elementi che tornano oggi.\nLeggi la domanda, **chiudi gli occhi e rispondi a voce**, poi controlla.\n\n| # | Domanda | Risposta |\n|---|---------|----------|\n| 1 | Ordine soggetto-verbo: Ich ______ Deutsch. | Ich lerne Deutsch. (Soggetto → Verbo → Resto) |\n| 2 | sein vs heißen: 'ich bin' vs 'ich heiße' | Usa 'ich bin' per 'sono', 'ich heiße' per 'mi chiamo'. |\n| 3 | Ich ______ Alessandro. | Ich heiße Alessandro. (Non: ich bin Alessandro!) |\n| 4 | ______ du Deutsch? | Lernst du Deutsch? (Domanda sì/no con inversione verbo-soggetto) |\n\n---\n\n## 1. I numeri (1‑20)\n\nImpara questi a memoria. I numeri non hanno articolo.\n\n| Tedesco | Italiano | Pronuncia (approx.) |\n|---------|----------|---------------------|\n| eins | uno | ains |\n| zwei | due | tsai |\n| drei | tre | drai |\n| vier | quattro | fiir |\n| fünf | cinque | fuunf |\n| sechs | sei | zeks |\n| sieben | sette | ziibn |\n| acht | otto | akt |\n| neun | nove | noyn |\n| zehn | dieci | tseen |\n| elf | undici | elf |\n| zwölf | dodici | tsvoelf |\n| dreizehn | tredici | drai-tseen |\n| vierzehn | quattordici | fiir-tseen |\n| fünfzehn | quindici | fuunf-tseen |\n| sechzehn | sedici | zek-tseen |\n| siebzehn | diciassette | ziip-tseen |\n| achtzehn | diciotto | akt-tseen |\n| neunzehn | diciannove | noyn-tseen |\n| zwanzig | venti | tsvan-tsik |\n\n⚠️ **Attenzione:** *achtzehn* ha la \"h\" muta, *siebzehn* perde la \"e\" di *sieben*.\n\n---\n\n## 2. Dire l'età: *ich bin* + numero + *Jahre alt*\n\nL'ordine è fisso e non può essere cambiato, diversamente dall'italiano.\n\n> **Ich** bin **drei** Jahre alt. (Ho 3 anni)\n> **Ich** bin **zwanzig** Jahre alt. (Ho 20 anni)\n> **Du** bist **fünf** Jahre alt.\n\n**Regola d'oro:** In tedesco il pronome si scrive **sempre**. Non dire semplicemente \"Sono studente\" come in italiano, ma \"Ich bin Student\".\n\n---\n\n## 3. Italiano vs tedesco: il pronome (ripasso)\n\n| Italiano | Tedesco | Nota |\n|----------|---------|------|\n| **Sono** studente | **Ich** bin Student | In tedesco il pronome è obbligatorio |\n| **Ho** 3 anni | **Ich** bin **drei** Jahre alt | Stesso principio |\n| **Non** sto bene | **Ich** gehe **nicht** bene | *nicht* sta prima del verbo |\n\n---\n\n## 4. Ordine della frase: soggetto → verbo → resto (ripasso)\n\nPer una frase semplice tedesca, la posizione è **fissa**:\n\n| Tedesco | Soggetto | Verbo | Resto |\n|---------|----------|-------|-------|\n| Ich lerne Deutsch. | ich | lerne | Deutsch |\n| Du sprichst Deutsch. | du | sprichst | Deutsch |\n| Er ist Student. | er | ist | Student |\n\nEsercizio: completa le frasi con la forma corretta.\n\n1. ___ bin **zwanzig** Jahre alt. (ich)\n2. ___ bist **fünf** Jahre alt. (du)\n3. ___ ist **Student**. (er)\n\n---\n\n## 5. Il negativo: *nicht* (ripasso)\n\nUna sola parola, si mette **subito prima del verbo** (o alla fine se c'è un oggetto).\n\n- Ich lerne **nicht** Deutsch. (Io non studio tedesco.)\n- Ich bin **nicht** müde. (Non sono stanco.)\n- Nicht heute. (Non oggi.)\n\n---\n\n## LESSICO TEMATICO (sempre con articolo!)\n\n| Tedesco | Genere | Pronuncia | Frase d'esempio |\n|---------|--------|-----------|-----------------|\n| die Zahlen | femminile | di tsalen | Die Zahlen sind wichtig. |\n| das Alter | neutro | das alter | Wie alt bist du? |\n| der Freund | maschile | der froint | Mein Freund studiert in Brixen. |\n| die Freundin | femminile | di froind-in | Meine Freundin lernt Deutsch. |\n| die Familie | femminile | di fa-mee-lee | Die Familie ist groß. |\n| der Bruder | maschile | der bruu-der | Mein Bruder ist groß. |\n| die Schwester | femminile | di shves-ter | Meine Schwester ist klein. |\n| die Mutter | femminile | di mu-tter | Die Mutter ist nett. |\n| der Vater | maschile | der fa-ter | Der Vater arbeitet. |\n| das Kind | neutro | das kint | Das Kind spielt. |\n\n---\n\n## ESERCIZI (3 totali — invia le risposte e le correggo)\n\n1. **Presentati con il tuo nome e l'età:** \"Ich heiße [nome]. Ich bin [età] Jahre alt.\"\n2. **Di' quanti anni hai in tedesco:** Scrivi la frase completa.\n3. **Chiedi a un amico quanti anni ha:** \"Wie alt bist du?\"\n\n---\n\n## SOLUZIONI (per autocontrollo)\n\n**Riscaldamento:**\n1. Ich lerne Deutsch.\n2. ich bin = sono; ich heiße = mi chiamo\n3. Ich heiße Alessandro.\n4. Lernst du Deutsch?\n\n**Esercizi ordine frase:**\n1. Ich bin zwanzig Jahre alt.\n2. Du bist fünf Jahre alt.\n4. Er ist Student.\n\n**Esercizi nuovi:**\n1. Ich heiße Alessandro. Ich bin zwanzig Jahre alt. (o la tua età)\n2. Ich bin zwanzig Jahre alt.\n3. Wie alt bist du?\n\n*Invia le tue 3 risposte su WhatsApp. Se oggi non puoi, scrivi SKIP.*",
+      "audioUrl": "https://raw.githubusercontent.com/ItsZale0/tedesco-vocab/main/audio/LEZIONE-2.mp3"
     },
     {
       "numero": 3,
-      "titolo": "Al ristorante",
+      "titolo": "L03 - La famiglia (A0)",
       "data": "2026-10-07",
       "pdfUrl": "",
-      "contenuto": "## Al ristorante\n\n### Grammatica: verbi modali\n\n- **ich möchte** (io vorrei) - ordinare\n- **ich kann** (io posso) - chiedere\n- **ich muss** (io devo) - esprimere obbligo\n\n### Esempi\n- Ich möchte ein Bier. (Vorrei una birra.)\n- Kann ich bitte zahlen? (Posso pagare per favore?)\n- Ich muss gehen. (Devo andare.)\n\n### Esercizi\n1. Ich ___ ein Bier. (möchte)\n2. ___ ich bitte zahlen? (Kann)\n3. Ich ___ gehen. (muss)\n4. ___ Sie mir helfen? (Können)\n5. Ich ___ gern Pizza. (möchte)"
+      "contenuto": "# L03 - La famiglia (A0)\n\nOggi impari:\n• I membri della famiglia in tedesco\n• Il possesso con *haben*\n• L'ordine fisso soggetto‑verbo‑resto (ripasso)\n\n---\\n\n\n## RIPASSO SPAZIATO (riscaldamento)\n\nPrima di andare avanti, ripassa questi elementi che tornano oggi.\nLeggi la domanda, **chiudi gli occhi e rispondi a voce**, poi controlla.\n\n|| # | Domanda | Risposta |\n|---|---------|----------|\n| 1 | Ordine soggetto-verbo: Ich ______ Deutsch. | Ich lerne Deutsch. (Soggetto → Verbo → Resto) |\n| 2 | sein vs heißen: 'ich bin' vs 'ich heiße' | Usa 'ich bin' per 'sono', 'ich heiße' per 'mi chiamo'. |\n| 3 | Ich ______ Alessandro. | Ich heiße Alessandro. (Non: ich bin Alessandro!) |\n| 4 | ______ du Deutsch? | Lernst du Deutsch? (Domanda sì/no con inversione verbo-soggetto) |\n| 5 | Deutsch | tedesco |\n| 6 | du | tu |\n\n---\\n\n\n## 1. I MEMBRI DELLA FAMIGLIA\n\nI nomi della famiglia hanno sempre l'articolo. Ecco i più comuni:\n\n|| Tedesco | Italiano | Articolo |\n|---|---------|----------|----------|\n| der Vater | il padre | er |\n| die Mutter | la madre | la |\n| der Bruder | il fratello | er |\n| die Schwester | la sorella | la |\n| der Sohn | il figlio | er |\n| die Tochter | la figlia | la |\n| der Großvater | il nonno | er |\n| die Großmutter | la nonna | la |\n| der Onkel | lo zio | er |\n| die Tante | la zia | la |\n\n---\\n\n\n## 2. IL POSSOSSO CON HABEN\n\nIn tedesco si usa *haben* per dire chi possiede qualcosa, a differenza dell'italiano che a volte usa *essere*.\n\n|| Tedesco | Italiano |\n|---|---------|----------|\n| Ich habe einen Bruder. | Ho un fratello. |\n| Ich habe eine Schwester. | Ho una sorella. |\n| Du hast ein Haus. | Tu hai una casa. |\n| Er hat einen Vater. | Ha un padre. |\n| Wir haben ein Zimmer. | Noi abbiamo una stanza. |\n| Ihr habt einen Hund. | Voi avete un cane. |\n| Sie haben eine Katze. | Hanno un gatto. |\n\n**Regola:** L'articolo cambia in base al genere e al numero:\n- *einer* per maschile (nominativo)\n- *einer* per femminile (nominativo)  \n- *ein* per neutro (nominativo)\n- *kein* per negativo\n\n---\\n\n\n## 3. ORDINE DELLA FRASE: SOGGETTO → VERBO → RESTO\n\nPer le frasi semplici tedesche, la posizione è **fissa**:\n\n|| Tedesco | Soggetto | Verbo | Resto |\n|---|---------|----------|-------|-------|\n| Ich lerne Deutsch. | ich | lerne | Deutsch |\n| Du sprichst Deutsch. | du | sprichst | Deutsch |\n| Er hat Zeit. | er | hat | Zeit |\n\n⚠️ **La posizione del verbo non cambia mai** nella frase principale.\n\n---\\n\n\n## 4. IL NEGATIVO: NICHT\n\nUna sola parola, si mette **subito prima del verbo** (o alla fine se c'è un oggetto).\n\n- Ich lerne **nicht** Deutsch. (Io non studio tedesco.)\n- Ich habe **nicht** Zeit. (Non ho tempo.)\n- Ich habe **keinen** Bruder. (Non ho un fratello.) — *kein* sostituisce l'articolo\n\n---\\n\n\n## 5. FARE DOMANDE: WIE ALT...?\n\n|| Italiano | Tedesco |\n|---|---|\n| Quanti anni hai? | **Wie alt** bist du? |\n| Io ho dieci anni. | Ich bin **zehn** Jahre alt. |\n\nLa risposta usa sempre **ich bin** + numero + *Jahre alt*.\n\n---\\n\n\n## LESSICO TEMATICO (sempre con articolo!)\n\nQueste 10 nuove parole vanno aggiunte al Google Sheet `Vocabolario`:\n\n|| Tedesco | Italiano | Frase d'esempio |\n|---|---------|----------|-----------------|\n| der Vater | il padre | Mein Vater ist Arzt. |\n| die Mutter | la madre | Meine Mutter ist Lehrerin. |\n| der Bruder | il fratello | Ich habe einen Bruder. |\n| die Schwester | la sorella | Ich habe eine Schwester. |\n| die Familie | la famiglia | Die Familie ist groß. |\n| der Hund | il cane | Der Hund ist groß. |\n| die Katze | il gatto | Ich liebe Katzen. |\n| der Tisch | il tavolo | Der Tisch ist sauber. |\n| die Zeit | il tempo | Ich habe Zeit. |\n| der Name | il nome | Wie heißt du? |\n\n⚠️ **Importante:** ogni voce ha l'articolo (der/die/das) e va inserita nel Sheet con l'articolo.\n\nLe parole chiave da ripassare (5 items):\n\n|| Tedesco | Italiano |\n|---|---------|----------|\n| eins | uno |\n| zwei | due |\n| drei | tre |\n| vier | quattro |\n| fünf | cinque |\n\n---\\n\n\n## ESERCIZI (fai questi e poi aspetta il feedback)\n\n**Completa con la forma giusta:**\n\n1. Ich ______ einen Bruder. (habe)\n2. Du ______ eine Schwester. (hast)\n3. Wir ______ ein Zimmer. (haben)\n4. Er ______ einen Vater. (hat)\n5. Ich ______ Zeit. (habe)\n\n**Traduci in tedesco:**\n\n6. Io ho una madre.\n7. Noi abbiamo un fratello.\n8. Lei ha una sorella.\n\n**Ordina le parole:**\n\n9. habe / ich / einen / Bruder.\n10. Familie / ist / die / groß.\n\n---\\n\n\n## 9. RISPOSTE (da controllare dopo)\n\n1. habe · 2. hast · 3. haben · 4. hat · 5. habe\n6. Ich habe eine Mutter. · 7. Wir haben einen Bruder. · 8. Sie hat eine Schwester.\n9. Ich habe einen Bruder. · 10. Die Familie ist groß.\n\n---\\n\n\n## 10. PROSSIMO STEP → Lezione 4: gli articoli determinativi\n\nNella prossima lezione impareremo **der, die, das** e come capire se una parola è maschile, femminile o neutro. Questo è fondamentale per usare correttamente i sostantivi.\n\n*Vocabolario della prossima lezione: articoli e primi sostantivi comuni.*\n\n*Documento generato dalla Lezione 3 — Insegnante di tedesco*",
+      "audioUrl": ""
+    },
+    {
+      "numero": 5,
+      "titolo": "Lezione 5: Città e paese",
+      "data": "2026-10-07",
+      "pdfUrl": "",
+      "contenuto": "# Lezione 5: Città e paese\n\n**Obiettivo:** descrivere la propria città o paese e chiedere/indicare la provenienza.\n\n---\n\n## Riscaldamento (chiudi gli occhi, rispondi a voce)\n\n1. Ordine soggetto-verbo-resto: *Ich lerne Deutsch.*\n2. Negazione corretta: *Ich lerne nicht Deutsch.*\n3. `sein` vs `heißen`: *'ich bin'* vs *'ich heiße'*. Presentati: *'Ich heiße Alessandro'*.\n4. *Wo wohnst du?* (Dove abiti?)\n5. *Wo kommst du?* (Da vieni?)\n\n---\n\n## Nuova lezione: Città e paese\n\n### Grammatica: wo vs woher\n\n*Wo* chiede dove si trova qualcuno/qualcosa *ora*.\n*Woher* chiede da dove qualcuno proviene.\n\n| Tedesco | Italiano | Esempio |\n|---------|----------|---------|\n| Wo wohnst du? | Dove abiti? | Wo wohnst du in Deutschland? |\n| Woher kommst du? | Da dove vieni? | Woher kommst du? Ich komme aus Italien. |\n\n**Regola:** *Woher* takes the dative case when answering with a city/country name (after the preposition), but the basic question word is unchanged.\n\n---\n\n## Vocabolario della città (con articolo e genere)\n\n| Tedesco | Genere | Italiano | Plurale |\n|---------|--------|----------|---------|\n| die Stadt | femminile | la città | die Städte |\n| der Ort | maschile | il luogo / il punto | die Orte |\n| die Stadtteil | maschile | il quartiere | die Stadtteile |\n| der Platz | maschile | la piazza | die Plätze |\n| die Straße | femminile | la strada | die Straßen |\n| der Bahnhof | maschile | la stazione | die Bahnhöfe |\n| der Flughafen | maschile | l'aeroporto | die Flughäfen |\n| die Ecke | femminile | l'angolo | die Ecken |\n| die Kirche | femminile | la chiesa | die Kirchen |\n| der Park | maschile | il parco | die Parks |\n\n---\n\n## Esempi di frasi\n\n1. *Wo wohnst du?* - *Ich wohne in Berlin.*\n2. *Woher kommst du?* - *Ich komme aus Italien.*\n3. *Ich wohne in einer kleinen Stadt.* (abito in una città piccola)\n4. *Die Stadt hat viele interessante Orte.*\n\n---\n\n## Esercizi (rispondi su WhatsApp, max 3)\n\n1. Come si dice 'dove vieni?' in tedesco: *Woher ...?*\n2. Completa: *Ich wohne in ___ (Mailand).*\n3. Traduci: 'Dove abiti?' - *Wo wohnst du?*\n\n---\n\n📝 Ricorda: il vocabolario di questa lezione sarà aggiunto al Google Sheet del vocabolario durante la giornata.\n\nSe hai domande sugrammatica o lessico, scrivi su WhatsApp. Buon studio!",
+      "audioUrl": "https://raw.githubusercontent.com/ItsZale0/tedesco-vocab/main/audio/LEZIONE-5.mp3"
     }
   ]
 }
