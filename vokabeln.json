@@ -1,6 +1,6 @@
 {
-  "version": 13,
-  "generatedAt": "2026-10-07T14:17:14Z",
+  "version": 14,
+  "generatedAt": "2026-10-07T18:05:43Z",
   "guida": {
     "titolo": "Verbi irregolari tedeschi (livello A0)",
     "docUrl": "https://docs.google.com/document/d/12yKY4Bpp6IqX7q8tgNYkFXIoAQsZR8yVd4mZhcD5I7g/edit",
@@ -1683,6 +1683,48 @@
         "sostantivo"
       ],
       "archived": false
+    },
+    {
+      "id": "w119",
+      "german": "der Lehrer",
+      "italian": "l'insegnante",
+      "example": "Der Lehrer spricht Deutsch.",
+      "article": null,
+      "pronunciation": null,
+      "level": "B1",
+      "lesson": 4,
+      "tags": [
+        "sostantivo"
+      ],
+      "archived": false
+    },
+    {
+      "id": "w120",
+      "german": "der Student",
+      "italian": "lo studente",
+      "example": "Der Student ist hier.",
+      "article": null,
+      "pronunciation": null,
+      "level": "B1",
+      "lesson": 4,
+      "tags": [
+        "sostantivo"
+      ],
+      "archived": false
+    },
+    {
+      "id": "w121",
+      "german": "nett",
+      "italian": "gentile",
+      "example": "Er ist nett.",
+      "article": null,
+      "pronunciation": null,
+      "level": "B1",
+      "lesson": 4,
+      "tags": [
+        "aggettivo/avverbio"
+      ],
+      "archived": false
     }
   ],
   "lezioneCorrente": 1,
@@ -1709,7 +1751,7 @@
       "data": "2026-10-07",
       "pdfUrl": "",
       "contenuto": "# L03 - La famiglia (A0)\n\nOggi impari:\n• I membri della famiglia in tedesco\n• Il possesso con *haben*\n• L'ordine fisso soggetto‑verbo‑resto (ripasso)\n\n---\\n\n\n## RIPASSO SPAZIATO (riscaldamento)\n\nPrima di andare avanti, ripassa questi elementi che tornano oggi.\nLeggi la domanda, **chiudi gli occhi e rispondi a voce**, poi controlla.\n\n|| # | Domanda | Risposta |\n|---|---------|----------|\n| 1 | Ordine soggetto-verbo: Ich ______ Deutsch. | Ich lerne Deutsch. (Soggetto → Verbo → Resto) |\n| 2 | sein vs heißen: 'ich bin' vs 'ich heiße' | Usa 'ich bin' per 'sono', 'ich heiße' per 'mi chiamo'. |\n| 3 | Ich ______ Alessandro. | Ich heiße Alessandro. (Non: ich bin Alessandro!) |\n| 4 | ______ du Deutsch? | Lernst du Deutsch? (Domanda sì/no con inversione verbo-soggetto) |\n| 5 | Deutsch | tedesco |\n| 6 | du | tu |\n\n---\\n\n\n## 1. I MEMBRI DELLA FAMIGLIA\n\nI nomi della famiglia hanno sempre l'articolo. Ecco i più comuni:\n\n|| Tedesco | Italiano | Articolo |\n|---|---------|----------|----------|\n| der Vater | il padre | er |\n| die Mutter | la madre | la |\n| der Bruder | il fratello | er |\n| die Schwester | la sorella | la |\n| der Sohn | il figlio | er |\n| die Tochter | la figlia | la |\n| der Großvater | il nonno | er |\n| die Großmutter | la nonna | la |\n| der Onkel | lo zio | er |\n| die Tante | la zia | la |\n\n---\\n\n\n## 2. IL POSSOSSO CON HABEN\n\nIn tedesco si usa *haben* per dire chi possiede qualcosa, a differenza dell'italiano che a volte usa *essere*.\n\n|| Tedesco | Italiano |\n|---|---------|----------|\n| Ich habe einen Bruder. | Ho un fratello. |\n| Ich habe eine Schwester. | Ho una sorella. |\n| Du hast ein Haus. | Tu hai una casa. |\n| Er hat einen Vater. | Ha un padre. |\n| Wir haben ein Zimmer. | Noi abbiamo una stanza. |\n| Ihr habt einen Hund. | Voi avete un cane. |\n| Sie haben eine Katze. | Hanno un gatto. |\n\n**Regola:** L'articolo cambia in base al genere e al numero:\n- *einer* per maschile (nominativo)\n- *einer* per femminile (nominativo)  \n- *ein* per neutro (nominativo)\n- *kein* per negativo\n\n---\\n\n\n## 3. ORDINE DELLA FRASE: SOGGETTO → VERBO → RESTO\n\nPer le frasi semplici tedesche, la posizione è **fissa**:\n\n|| Tedesco | Soggetto | Verbo | Resto |\n|---|---------|----------|-------|-------|\n| Ich lerne Deutsch. | ich | lerne | Deutsch |\n| Du sprichst Deutsch. | du | sprichst | Deutsch |\n| Er hat Zeit. | er | hat | Zeit |\n\n⚠️ **La posizione del verbo non cambia mai** nella frase principale.\n\n---\\n\n\n## 4. IL NEGATIVO: NICHT\n\nUna sola parola, si mette **subito prima del verbo** (o alla fine se c'è un oggetto).\n\n- Ich lerne **nicht** Deutsch. (Io non studio tedesco.)\n- Ich habe **nicht** Zeit. (Non ho tempo.)\n- Ich habe **keinen** Bruder. (Non ho un fratello.) — *kein* sostituisce l'articolo\n\n---\\n\n\n## 5. FARE DOMANDE: WIE ALT...?\n\n|| Italiano | Tedesco |\n|---|---|\n| Quanti anni hai? | **Wie alt** bist du? |\n| Io ho dieci anni. | Ich bin **zehn** Jahre alt. |\n\nLa risposta usa sempre **ich bin** + numero + *Jahre alt*.\n\n---\\n\n\n## LESSICO TEMATICO (sempre con articolo!)\n\nQueste 10 nuove parole vanno aggiunte al Google Sheet `Vocabolario`:\n\n|| Tedesco | Italiano | Frase d'esempio |\n|---|---------|----------|-----------------|\n| der Vater | il padre | Mein Vater ist Arzt. |\n| die Mutter | la madre | Meine Mutter ist Lehrerin. |\n| der Bruder | il fratello | Ich habe einen Bruder. |\n| die Schwester | la sorella | Ich habe eine Schwester. |\n| die Familie | la famiglia | Die Familie ist groß. |\n| der Hund | il cane | Der Hund ist groß. |\n| die Katze | il gatto | Ich liebe Katzen. |\n| der Tisch | il tavolo | Der Tisch ist sauber. |\n| die Zeit | il tempo | Ich habe Zeit. |\n| der Name | il nome | Wie heißt du? |\n\n⚠️ **Importante:** ogni voce ha l'articolo (der/die/das) e va inserita nel Sheet con l'articolo.\n\nLe parole chiave da ripassare (5 items):\n\n|| Tedesco | Italiano |\n|---|---------|----------|\n| eins | uno |\n| zwei | due |\n| drei | tre |\n| vier | quattro |\n| fünf | cinque |\n\n---\\n\n\n## ESERCIZI (fai questi e poi aspetta il feedback)\n\n**Completa con la forma giusta:**\n\n1. Ich ______ einen Bruder. (habe)\n2. Du ______ eine Schwester. (hast)\n3. Wir ______ ein Zimmer. (haben)\n4. Er ______ einen Vater. (hat)\n5. Ich ______ Zeit. (habe)\n\n**Traduci in tedesco:**\n\n6. Io ho una madre.\n7. Noi abbiamo un fratello.\n8. Lei ha una sorella.\n\n**Ordina le parole:**\n\n9. habe / ich / einen / Bruder.\n10. Familie / ist / die / groß.\n\n---\\n\n\n## 9. RISPOSTE (da controllare dopo)\n\n1. habe · 2. hast · 3. haben · 4. hat · 5. habe\n6. Ich habe eine Mutter. · 7. Wir haben einen Bruder. · 8. Sie hat eine Schwester.\n9. Ich habe einen Bruder. · 10. Die Familie ist groß.\n\n---\\n\n\n## 10. PROSSIMO STEP → Lezione 4: gli articoli determinativi\n\nNella prossima lezione impareremo **der, die, das** e come capire se una parola è maschile, femminile o neutro. Questo è fondamentale per usare correttamente i sostantivi.\n\n*Vocabolario della prossima lezione: articoli e primi sostantivi comuni.*\n\n*Documento generato dalla Lezione 3 — Insegnante di tedesco*",
-      "audioUrl": "https://raw.githubusercontent.com/ItsZale0/tedesco-vocab/main/audio/LEZIONE-03.mp3"
+      "audioUrl": ""
     },
     {
       "numero": 5,
@@ -1718,6 +1760,117 @@
       "pdfUrl": "",
       "contenuto": "# Lezione 5: Città e paese\n\n**Obiettivo:** descrivere la propria città o paese e chiedere/indicare la provenienza.\n\n---\n\n## Riscaldamento (chiudi gli occhi, rispondi a voce)\n\n1. Ordine soggetto-verbo-resto: *Ich lerne Deutsch.*\n2. Negazione corretta: *Ich lerne nicht Deutsch.*\n3. `sein` vs `heißen`: *'ich bin'* vs *'ich heiße'*. Presentati: *'Ich heiße Alessandro'*.\n4. *Wo wohnst du?* (Dove abiti?)\n5. *Wo kommst du?* (Da vieni?)\n\n---\n\n## Nuova lezione: Città e paese\n\n### Grammatica: wo vs woher\n\n*Wo* chiede dove si trova qualcuno/qualcosa *ora*.\n*Woher* chiede da dove qualcuno proviene.\n\n| Tedesco | Italiano | Esempio |\n|---------|----------|---------|\n| Wo wohnst du? | Dove abiti? | Wo wohnst du in Deutschland? |\n| Woher kommst du? | Da dove vieni? | Woher kommst du? Ich komme aus Italien. |\n\n**Regola:** *Woher* takes the dative case when answering with a city/country name (after the preposition), but the basic question word is unchanged.\n\n---\n\n## Vocabolario della città (con articolo e genere)\n\n| Tedesco | Genere | Italiano | Plurale |\n|---------|--------|----------|---------|\n| die Stadt | femminile | la città | die Städte |\n| der Ort | maschile | il luogo / il punto | die Orte |\n| die Stadtteil | maschile | il quartiere | die Stadtteile |\n| der Platz | maschile | la piazza | die Plätze |\n| die Straße | femminile | la strada | die Straßen |\n| der Bahnhof | maschile | la stazione | die Bahnhöfe |\n| der Flughafen | maschile | l'aeroporto | die Flughäfen |\n| die Ecke | femminile | l'angolo | die Ecken |\n| die Kirche | femminile | la chiesa | die Kirchen |\n| der Park | maschile | il parco | die Parks |\n\n---\n\n## Esempi di frasi\n\n1. *Wo wohnst du?* - *Ich wohne in Berlin.*\n2. *Woher kommst du?* - *Ich komme aus Italien.*\n3. *Ich wohne in einer kleinen Stadt.* (abito in una città piccola)\n4. *Die Stadt hat viele interessante Orte.*\n\n---\n\n## Esercizi (rispondi su WhatsApp, max 3)\n\n1. Come si dice 'dove vieni?' in tedesco: *Woher ...?*\n2. Completa: *Ich wohne in ___ (Mailand).*\n3. Traduci: 'Dove abiti?' - *Wo wohnst du?*\n\n---\n\n📝 Ricorda: il vocabolario di questa lezione sarà aggiunto al Google Sheet del vocabolario durante la giornata.\n\nSe hai domande sugrammatica o lessico, scrivi su WhatsApp. Buon studio!",
       "audioUrl": "https://raw.githubusercontent.com/ItsZale0/tedesco-vocab/main/audio/LEZIONE-5.mp3"
+    }
+  ],
+  "piano": {
+    "obiettivo": "B2 per lavorare in sanita a Bressanone",
+    "orizzonte": "24 mesi",
+    "tappe": [
+      {
+        "nome": "A1",
+        "descrizione": "Basi: presentarsi, numeri, famiglia, verbi fondamentali",
+        "lezioni": "1-40",
+        "stato": "in corso"
+      },
+      {
+        "nome": "A2",
+        "descrizione": "Vita quotidiana, passato, casi, preposizioni",
+        "lezioni": "41-90",
+        "stato": "da fare"
+      },
+      {
+        "nome": "B1",
+        "descrizione": "Certificazione: Goethe, telc o OeSD. Argomenti astratti, opinione",
+        "lezioni": "91-150",
+        "stato": "da fare"
+      },
+      {
+        "nome": "B2",
+        "descrizione": "Livello lavorativo sanitario. Lessico specialistico fisioterapia",
+        "lezioni": "151-200",
+        "stato": "da fare"
+      }
+    ],
+    "certificazioni": [
+      {
+        "nome": "Goethe-Zertifikat B1",
+        "ente": "Goethe-Institut",
+        "livello": "B1",
+        "note": "Il piu riconosciuto in ambito lavorativo. Quattro prove: Lesen, Hoeren, Schreiben, Sprechen.",
+        "url": "https://www.goethe.de/de/spr/kup/prf/prf/gzsd1.html"
+      },
+      {
+        "nome": "telc Deutsch B1",
+        "ente": "telc gGmbH",
+        "livello": "B1",
+        "note": "Molto usato in ambito professionale e per il riconoscimento dei titoli in Germania.",
+        "url": "https://www.telc.net"
+      },
+      {
+        "nome": "OeSD Zertifikat B1",
+        "ente": "Oesterreichisches Sprachdiplom",
+        "livello": "B1",
+        "note": "Riconosciuto in Austria e Alto Adige. Utile per il percorso a Bressanone.",
+        "url": "https://www.osd.at"
+      },
+      {
+        "nome": "Goethe-Zertifikat B2",
+        "ente": "Goethe-Institut",
+        "livello": "B2",
+        "note": "Livello lavorativo richiesto in sanita in Alto Adige. Obiettivo finale del percorso.",
+        "url": "https://www.goethe.de"
+      }
+    ],
+    "risorse": [
+      {
+        "nome": "Nicos Weg (DW)",
+        "tipo": "gratuito",
+        "nota": "Corso completo A1-B1 con video"
+      },
+      {
+        "nome": "Busuu Premium",
+        "tipo": "abbonamento",
+        "nota": "70% della pratica quotidiana"
+      },
+      {
+        "nome": "Easy German",
+        "tipo": "gratuito",
+        "nota": "Tedesco reale, con sottotitoli"
+      }
+    ]
+  },
+  "progresso": {
+    "lezioneCorrente": 1,
+    "streakCorrente": 0,
+    "streakRecord": 0,
+    "totaleFatte": 0,
+    "paroleTotali": 0,
+    "paroleMature": 0
+  },
+  "sessioni": [
+    {
+      "tipo": "SESSIONE",
+      "titolo": "Sessione guidata",
+      "descrizione": "30 minuti: ripasso 5 min, nuovo 10 min, esercizi 10 min, conversazione 5 min",
+      "durata": 30
+    },
+    {
+      "tipo": "TEST",
+      "titolo": "Test di verifica",
+      "descrizione": "15 domande su tutto il materiale coperto finora",
+      "durata": 20
+    },
+    {
+      "tipo": "ROLEPLAY",
+      "titolo": "Roleplay",
+      "descrizione": "Dialogo realistico su una situazione. Correzione solo alla fine.",
+      "durata": 15
+    },
+    {
+      "tipo": "RIPASSO",
+      "titolo": "Ripasso errori",
+      "descrizione": "Riproposizione degli errori piu frequenti con ripetizione spaziata",
+      "durata": 15
     }
   ]
 }
