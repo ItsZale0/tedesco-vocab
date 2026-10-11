@@ -31,7 +31,7 @@
     {
       "id": "w1",
       "german": "ich",
-      "italian": "(da completare)",
+      "italian": "io",
       "example": "Ich bin Alessandro.",
       "article": null,
       "pronunciation": null,
@@ -1641,7 +1641,7 @@
     {
       "id": "w116",
       "german": "die Wand",
-      "italian": "(da completare)",
+      "italian": "la parete",
       "example": "Die Wand ist weiss.",
       "article": null,
       "pronunciation": null,
@@ -1655,7 +1655,7 @@
     {
       "id": "w117",
       "german": "der Boden",
-      "italian": "(da completare)",
+      "italian": "il pavimento",
       "example": "Der Boden ist sauber.",
       "article": null,
       "pronunciation": null,
@@ -1669,7 +1669,7 @@
     {
       "id": "w118",
       "german": "die Decke",
-      "italian": "(da completare)",
+      "italian": "il soffitto",
       "example": "Die Decke ist hoch.",
       "article": null,
       "pronunciation": null,
