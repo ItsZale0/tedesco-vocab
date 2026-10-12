@@ -1,6 +1,6 @@
 {
-  "version": 23,
-  "generatedAt": "2026-10-11T07:25:03Z",
+  "version": 24,
+  "generatedAt": "2026-10-12T05:00:57Z",
   "guida": {
     "titolo": "Verbi irregolari tedeschi (livello A0)",
     "docUrl": "https://docs.google.com/document/d/12yKY4Bpp6IqX7q8tgNYkFXIoAQsZR8yVd4mZhcD5I7g/edit",
@@ -31,7 +31,7 @@
     {
       "id": "w1",
       "german": "ich",
-      "italian": "io",
+      "italian": "(da completare)",
       "example": "Ich bin Alessandro.",
       "article": null,
       "pronunciation": null,
@@ -1641,7 +1641,7 @@
     {
       "id": "w116",
       "german": "die Wand",
-      "italian": "la parete",
+      "italian": "(da completare)",
       "example": "Die Wand ist weiss.",
       "article": null,
       "pronunciation": null,
@@ -1655,7 +1655,7 @@
     {
       "id": "w117",
       "german": "der Boden",
-      "italian": "il pavimento",
+      "italian": "(da completare)",
       "example": "Der Boden ist sauber.",
       "article": null,
       "pronunciation": null,
@@ -1669,7 +1669,7 @@
     {
       "id": "w118",
       "german": "die Decke",
-      "italian": "il soffitto",
+      "italian": "(da completare)",
       "example": "Die Decke ist hoch.",
       "article": null,
       "pronunciation": null,
@@ -1778,60 +1778,12 @@
       "audioUrl": ""
     },
     {
-      "numero": 4,
-      "titolo": "L04 - I verbi modali: konnen, mussen, wollen (A0)",
-      "data": "2026-10-11",
-      "pdfUrl": "",
-      "contenuto": "# L04 - I verbi modali: können, müssen, wollen (A0)\n\nOggi impari:\n• I tre verbi modali base: **können** (potere), **müssen** (dovere), **wollen** (volere)\n• La struttura frase con il modale (modale + verbo all'infinito in fondo)\n• Congiugazione dei modali al presente\n\n---\n\n## RIPASSO SPAZIATO (riscaldamento)\n\n| # | Domanda | Risposta |\n|---|---------|----------|\n| 1 | Ordine soggetto-verbo-resto | Ich lerne Deutsch. |\n| 2 | sein vs heißen | 'ich bin' = sono, 'ich heiße' = mi chiamo |\n| 3 | La famiglia: come si dice 'fratello'? | der Bruder (pl. die Brüder) |\n| 4 | I numeri: 1, 2, 3 | eins, zwei, drei |\n\n---\n\n## 1. I verbi modali\n\nIn tedesco il modale sta in **seconda posizione** e il verbo principale va **alla fine** all'infinito.\n\n**Schema:** Soggetto + **modale** + ... + **verbo infinito**.\n\n| Modale | io | tu | lui/lei | noi | voi | loro | Italiano |\n|---|---|---|---|---|---|---|---|\n| **können** | kann | kannst | kann | können | könnt | können | potere |\n| **müssen** | muss | musst | muss | müssen | müsst | müssen | dovere |\n| **wollen** | will | willst | will | wollen | wollt | wollen | volere |\n\n---\n\n## 2. Esempi\n\n- Ich **kann** Deutsch **sprechen**. (Posso parlare tedesco.)\n- Du **musst** heute **lernen**. (Devi studiare oggi.)\n- Er **will** Arzt **werden**. (Vuole diventare medico.)\n\n---\n\n## 3. Lessico della lezione\n\n| Tedesco | Italiano | Frase |\n|---|---|---|\n| können | potere | Ich kann schwimmen. |\n| müssen | dovere | Ich muss arbeiten. |\n| wollen | volere | Ich will Pizza. |\n| sprechen | parlare | Sprichst du Deutsch? |\n| lernen | studiare | Wir lernen Deutsch. |\n| arbeiten | lavorare | Ich arbeite viel. |\n\n---\n\n## 4. Esercizi (prova a voce)\n\n1. Io posso parlare tedesco. → Ich ____ Deutsch ____.\n2. Tu devi studiare. → Du ____ heute ____.\n3. Lui vuole diventare medico. → Er ____ Arzt ____.",
-      "audioUrl": "https://raw.githubusercontent.com/ItsZale0/tedesco-vocab/main/audio/LEZIONE-4.mp3"
-    },
-    {
       "numero": 5,
       "titolo": "Lezione 5: Città e paese",
       "data": "2026-10-07",
       "pdfUrl": "",
       "contenuto": "# Lezione 5: Città e paese\n\n**Obiettivo:** descrivere la propria città o paese e chiedere/indicare la provenienza.\n\n---\n\n## Riscaldamento (chiudi gli occhi, rispondi a voce)\n\n1. Ordine soggetto-verbo-resto: *Ich lerne Deutsch.*\n2. Negazione corretta: *Ich lerne nicht Deutsch.*\n3. `sein` vs `heißen`: *'ich bin'* vs *'ich heiße'*. Presentati: *'Ich heiße Alessandro'*.\n4. *Wo wohnst du?* (Dove abiti?)\n5. *Wo kommst du?* (Da vieni?)\n\n---\n\n## Nuova lezione: Città e paese\n\n### Grammatica: wo vs woher\n\n*Wo* chiede dove si trova qualcuno/qualcosa *ora*.\n*Woher* chiede da dove qualcuno proviene.\n\n| Tedesco | Italiano | Esempio |\n|---------|----------|---------|\n| Wo wohnst du? | Dove abiti? | Wo wohnst du in Deutschland? |\n| Woher kommst du? | Da dove vieni? | Woher kommst du? Ich komme aus Italien. |\n\n**Regola:** *Woher* takes the dative case when answering with a city/country name (after the preposition), but the basic question word is unchanged.\n\n---\n\n## Vocabolario della città (con articolo e genere)\n\n| Tedesco | Genere | Italiano | Plurale |\n|---------|--------|----------|---------|\n| die Stadt | femminile | la città | die Städte |\n| der Ort | maschile | il luogo / il punto | die Orte |\n| die Stadtteil | maschile | il quartiere | die Stadtteile |\n| der Platz | maschile | la piazza | die Plätze |\n| die Straße | femminile | la strada | die Straßen |\n| der Bahnhof | maschile | la stazione | die Bahnhöfe |\n| der Flughafen | maschile | l'aeroporto | die Flughäfen |\n| die Ecke | femminile | l'angolo | die Ecken |\n| die Kirche | femminile | la chiesa | die Kirchen |\n| der Park | maschile | il parco | die Parks |\n\n---\n\n## Esempi di frasi\n\n1. *Wo wohnst du?* - *Ich wohne in Berlin.*\n2. *Woher kommst du?* - *Ich komme aus Italien.*\n3. *Ich wohne in einer kleinen Stadt.* (abito in una città piccola)\n4. *Die Stadt hat viele interessante Orte.*\n\n---\n\n## Esercizi (rispondi su WhatsApp, max 3)\n\n1. Come si dice 'dove vieni?' in tedesco: *Woher ...?*\n2. Completa: *Ich wohne in ___ (Mailand).*\n3. Traduci: 'Dove abiti?' - *Wo wohnst du?*\n\n---\n\n📝 Ricorda: il vocabolario di questa lezione sarà aggiunto al Google Sheet del vocabolario durante la giornata.\n\nSe hai domande sugrammatica o lessico, scrivi su WhatsApp. Buon studio!",
       "audioUrl": "https://raw.githubusercontent.com/ItsZale0/tedesco-vocab/main/audio/LEZIONE-5.mp3"
-    },
-    {
-      "numero": 6,
-      "titolo": "L06 - Il tempo e le stagioni (A0)",
-      "data": "2026-10-11",
-      "pdfUrl": "",
-      "contenuto": "# L06 - Il tempo e le stagioni (A0)\n\nOggi impari:\n• Le quattro stagioni in tedesco\n• Il verbo **sein** (essere) completo\n• Come si chiede che tempo fa (*Wie ist das Wetter?*)\n\n---\n\n## RIPASSO SPAZIATO (riscaldamento)\n\n| # | Domanda | Risposta |\n|---|---------|----------|\n| 1 | können (io) | ich kann |\n| 2 | müssen (tu) | du musst |\n| 3 | wollen (lui) | er will |\n| 4 | struttura modale | modale 2ª pos. + verbo in fondo |\n\n---\n\n## 1. Le stagioni (die Jahreszeiten)\n\n| Tedesco | Italiano | Articolo |\n|---|---|---|\n| der Frühling | la primavera | der |\n| der Sommer | l'estate | der |\n| der Herbst | l'autunno | der |\n| der Winter | l'inverno | der |\n\n---\n\n## 2. Il tempo (das Wetter)\n\n- **Wie ist das Wetter?** (Che tempo fa?)\n- Es ist **heiß**. (Fa caldo.)\n- Es ist **kalt**. (Fa freddo.)\n- Die **Sonne** scheint. (Splende il sole.)\n- Es **regnet**. (Piove.)\n\n| Tedesco | Italiano |\n|---|---|\n| heiß | caldo |\n| kalt | freddo |\n| die Sonne | il sole |\n| der Regen | la pioggia |\n| der Schnee | la neve |\n| der Wind | il vento |\n\n---\n\n## 3. Il verbo sein (essere) — presente\n\n| Persona | Forma |\n|---|---|\n| ich | **bin** |\n| du | **bist** |\n| er/sie/es | **ist** |\n| wir | **sind** |\n| ihr | **seid** |\n| sie/Sie | **sind** |\n\n---\n\n## 4. Esercizi\n\n1. In estate fa caldo. → Im Sommer ist es ____.\n2. Oggi piove. → Heute ____ es.\n3. In inverno fa freddo. → Im Winter ist es ____.",
-      "audioUrl": "https://raw.githubusercontent.com/ItsZale0/tedesco-vocab/main/audio/LEZIONE-6.mp3"
-    },
-    {
-      "numero": 7,
-      "titolo": "L07 - La casa e i mobili (A0)",
-      "data": "2026-10-11",
-      "pdfUrl": "",
-      "contenuto": "# L07 - La casa e i mobili (A0)\n\nOggi impari:\n• Le stanze della casa\n• I mobili principali (con articolo, genere e plurale)\n• Le preposizioni di luogo *in, auf, unter*\n\n---\n\n## RIPASSO SPAZIATO (riscaldamento)\n\n| # | Domanda | Risposta |\n|---|---------|----------|\n| 1 | Le stagioni (4) | Frühling, Sommer, Herbst, Winter |\n| 2 | sein (io/tu/lui) | bin, bist, ist |\n| 3 | Wie ist das Wetter? | Che tempo fa? |\n\n---\n\n## 1. Le stanze (die Zimmer)\n\n| Tedesco | Italiano | Articolo |\n|---|---|---|\n| das Zimmer | la stanza | das |\n| die Küche | la cucina | die |\n| das Wohnzimmer | il soggiorno | das |\n| das Schlafzimmer | la camera da letto | das |\n| das Badezimmer | il bagno | das |\n\n---\n\n## 2. I mobili (die Möbel)\n\n| Tedesco | Italiano | Plurale |\n|---|---|---|\n| der Tisch | il tavolo | die Tische |\n| der Stuhl | la sedia | die Stühle |\n| das Bett | il letto | die Betten |\n| der Schrank | l'armadio | die Schränke |\n| die Lampe | la lampada | die Lampen |\n\n---\n\n## 3. Preposizioni di luogo\n\n- **in** + dativo: *in der Küche* (in cucina)\n- **auf** + dativo: *auf dem Tisch* (sul tavolo)\n- **unter** + dativo: *unter dem Bett* (sotto il letto)\n\n---\n\n## 4. Esercizi\n\n1. Il libro è sul tavolo. → Das Buch ist ____ ____ Tisch.\n2. Il gatto è sotto il letto. → Die Katze ist ____ ____ Bett.",
-      "audioUrl": "https://raw.githubusercontent.com/ItsZale0/tedesco-vocab/main/audio/LEZIONE-7.mp3"
-    },
-    {
-      "numero": 8,
-      "titolo": "L08 - Il cibo e le bevande (A0)",
-      "data": "2026-10-11",
-      "pdfUrl": "",
-      "contenuto": "# L08 - Il cibo e le bevande (A0)\n\nOggi impari:\n• Il cibo principale (con articolo)\n• Le bevande\n• Ordinare al ristorante (*Ich möchte...*)\n\n---\n\n## RIPASSO SPAZIATO (riscaldamento)\n\n| # | Domanda | Risposta |\n|---|---------|----------|\n| 1 | Le stanze | Zimmer, Küche, Wohnzimmer |\n| 2 | preposizioni | in, auf, unter |\n| 3 | der Tisch (pl.) | die Tische |\n\n---\n\n## 1. Il cibo (das Essen)\n\n| Tedesco | Italiano | Articolo |\n|---|---|---|\n| das Brot | il pane | das |\n| der Käse | il formaggio | der |\n| der Apfel | la mela | der |\n| das Ei | l'uovo | das |\n| das Fleisch | la carne | das |\n| der Fisch | il pesce | der |\n\n---\n\n## 2. Le bevande (die Getränke)\n\n| Tedesco | Italiano | Articolo |\n|---|---|---|\n| das Wasser | l'acqua | das |\n| der Kaffee | il caffè | der |\n| der Tee | il tè | der |\n| die Milch | il latte | die |\n| der Saft | il succo | der |\n\n---\n\n## 3. Al ristorante\n\n- **Ich möchte...** (Vorrei...)\n- **Die Rechnung, bitte.** (Il conto, per favore.)\n- *Was empfiehlst du?* (Cosa mi consigli?)\n\n---\n\n## 4. Esercizi\n\n1. Vorrei un caffè. → Ich ____ einen Kaffee.\n2. Il conto, per favore. → ____ Rechnung, bitte.",
-      "audioUrl": "https://raw.githubusercontent.com/ItsZale0/tedesco-vocab/main/audio/LEZIONE-8.mp3"
-    },
-    {
-      "numero": 9,
-      "titolo": "L09 - I colori e gli aggettivi (A0)",
-      "data": "2026-10-11",
-      "pdfUrl": "",
-      "contenuto": "# L09 - I colori e gli aggettivi (A0)\n\nOggi impari:\n• I colori base\n• La declinazione base dell'aggettivo (predicativo vs attributivo)\n• Concordanza con l'articolo\n\n---\n\n## RIPASSO SPAZIATO (riscaldamento)\n\n| # | Domanda | Risposta |\n|---|---------|----------|\n| 1 | das Brot, der Käse | pane, formaggio |\n| 2 | Ich möchte... | Vorrei... |\n| 3 | die Getränke | le bevande |\n\n---\n\n## 1. I colori (die Farben)\n\n| Tedesco | Italiano |\n|---|---|\n| rot | rosso |\n| blau | blu |\n| grün | verde |\n| gelb | giallo |\n| schwarz | nero |\n| weiß | bianco |\n\n---\n\n## 2. Aggettivo predicativo (dopo sein)\n\nL'aggettivo **non si declina** quando segue il verbo *sein*:\n\n- Das Auto ist **rot**. (L'auto è rossa.)\n- Der Himmel ist **blau**. (Il cielo è blu.)\n\n---\n\n## 3. Aggettivo attributivo (prima del nome)\n\nQui l'aggettivo prende la desinenza. Con articolo determinativo:\n\n- **der rot**e Stuhl → *der rote Stuhl* (la sedia rossa)\n- **das klein**e Haus → *das kleine Haus* (la piccola casa)\n\n> Regola base A0: con *der/das/die* l'aggettivo prende **-e** (nom. sing.).\n\n---\n\n## 4. Esercizi\n\n1. L'auto è rossa. → Das Auto ist ____.\n2. La sedia rossa. → ____ rote Stuhl.",
-      "audioUrl": "https://raw.githubusercontent.com/ItsZale0/tedesco-vocab/main/audio/LEZIONE-9.mp3"
-    },
-    {
-      "numero": 10,
-      "titolo": "L10 - Il Perfekt: il passato prossimo (A1)",
-      "data": "2026-10-11",
-      "pdfUrl": "",
-      "contenuto": "# L10 - Il Perfekt: il passato prossimo (A1)\n\nOggi impari:\n• Formare il **Perfekt** con *haben* e *sein*\n• Il participio passato (ge-...-t)\n• I verbi irregolari base\n\n---\n\n## RIPASSO SPAZIATO (riscaldamento)\n\n| # | Domanda | Risposta |\n|---|---------|----------|\n| 1 | I colori (3) | rot, blau, grün |\n| 2 | aggettivo predicativo | non si declina dopo sein |\n| 3 | aggettivo attributivo | prende -e con der/das/die |\n\n---\n\n## 1. Il Perfekt con haben\n\n**Schema:** haben (congiugato) + participio in fondo.\n\n| Persona | haben |\n|---|---|\n| ich | **habe** |\n| du | **hast** |\n| er/sie/es | **hat** |\n| wir | **haben** |\n| ihr | **habt** |\n| sie/Sie | **haben** |\n\n- Ich **habe** Deutsch **gelernt**. (Ho studiato tedesco.)\n- Du **hast** ein Buch **gelesen**. (Hai letto un libro.)\n\n---\n\n## 2. Il participio passato\n\n- Regolari: **ge** + radice + **t** → *gelernt, gemacht, gearbeitet*\n- Irregolari: **ge** + radice + **en** → *geschrieben, gesprochen, gegessen*\n\n| Infinito | Participio | Italiano |\n|---|---|---|\n| lernen | gelernt | studiare |\n| machen | gemacht | fare |\n| sprechen | gesprochen | parlare |\n| schreiben | geschrieben | scrivere |\n| essen | gegessen | mangiare |\n\n---\n\n## 3. Il Perfekt con sein (verbi di movimento)\n\n- Ich **bin** nach Hause **gegangen**. (Sono andato a casa.)\n- Er **ist** **gefahren**. (È andato in macchina.)\n\n---\n\n## 4. Esercizi\n\n1. Ho studiato tedesco. → Ich ____ Deutsch ____.\n2. Hai letto un libro. → Du ____ ein Buch ____.",
-      "audioUrl": "https://raw.githubusercontent.com/ItsZale0/tedesco-vocab/main/audio/LEZIONE-10.mp3"
     }
   ],
   "piano": {
