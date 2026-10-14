@@ -1,6 +1,6 @@
 {
-  "version": 25,
-  "generatedAt": "2026-10-13T05:00:56Z",
+  "version": 26,
+  "generatedAt": "2026-10-14T05:00:30Z",
   "guida": {
     "titolo": "Verbi irregolari tedeschi (livello A0)",
     "docUrl": "https://docs.google.com/document/d/12yKY4Bpp6IqX7q8tgNYkFXIoAQsZR8yVd4mZhcD5I7g/edit",
@@ -31,7 +31,7 @@
     {
       "id": "w1",
       "german": "ich",
-      "italian": "io",
+      "italian": "(da completare)",
       "example": "Ich bin Alessandro.",
       "article": null,
       "pronunciation": null,
@@ -1641,7 +1641,7 @@
     {
       "id": "w116",
       "german": "die Wand",
-      "italian": "la parete",
+      "italian": "(da completare)",
       "example": "Die Wand ist weiss.",
       "article": null,
       "pronunciation": null,
@@ -1655,7 +1655,7 @@
     {
       "id": "w117",
       "german": "der Boden",
-      "italian": "il pavimento",
+      "italian": "(da completare)",
       "example": "Der Boden ist sauber.",
       "article": null,
       "pronunciation": null,
@@ -1669,7 +1669,7 @@
     {
       "id": "w118",
       "german": "die Decke",
-      "italian": "il soffitto",
+      "italian": "(da completare)",
       "example": "Die Decke ist hoch.",
       "article": null,
       "pronunciation": null,
